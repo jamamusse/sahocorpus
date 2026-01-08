@@ -1,4 +1,5 @@
-# sahocorpus - ver 1.0 - 2026 [various datasets released open]
+# sahocorpus - ver 1.0 - 2026
+# [various datasets released open]
 Official Repository of freely available Saaho Language Datasets from the Saho Corpus Project
 Dr Jama Musse Jama (jama@redsea-online.org) | more information available at www.sahocorpus.com
 
