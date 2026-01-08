@@ -1,0 +1,23 @@
+{
+  "record_metadata": {
+    "id": "SH-12045",
+    "status": "Approved",
+    "last_updated": "2025-10-12"
+  },
+  "source": {
+    "language": "English",
+    "text": "The students are studying Saho literature."
+  },
+  "target": [
+    {
+      "text": "Baras-mariy Saaho adaba baranitini.",
+      "dialect": "Northern",
+      "neutral_flag": true
+    },
+    {
+      "text": "Baras-mariy Saaho adaba baranon.",
+      "dialect": "Southern",
+      "neutral_flag": false
+    }
+  ]
+}
