@@ -1,8 +1,3 @@
-# ==============================================================================
-# SAMTRAMOD - Datasets
-# Saaho Multi-Dialect Dataset (ver 1.0)
-# 2026 Jama Musse Jama 
-
 ID	Source_EN	Target_Saho_North	Target_Saho_Central	Target_Saho_South
 SAM-GTR-00001	Adam did that, even though he didn't need to	Adam abo kaalle mitine haaki, amayim abe	Adam abo kaal mitine haaki, amaye abe	Adam abo kaal mitine hayki, amaye abe
 SAM-GTR-00002	Adam has never done that by himself	Adam amayim isheh abeh miyaarhige	Adam amaye isheh abeh miyaarhige	Adam amayim isheh abeh mayaarhige
