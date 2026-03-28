@@ -1,0 +1,99 @@
+# ==============================================================================
+# SAMTRAMOD - Datasets
+# Saaho Multi-Dialect Dataset (ver 1.0)
+# 2026 Jama Musse Jama 
+
+ID	Source_EN	Target_Saho_North	Target_Saho_Central	Target_Saho_South
+SAM-GTR-00001	Adam did that, even though he didn't need to	Adam abo kaalle mitine haaki, amayim abe	Adam abo kaal mitine haaki, amaye abe	Adam abo kaal mitine hayki, amaye abe
+SAM-GTR-00002	Adam has never done that by himself	Adam amayim isheh abeh miyaarhige	Adam amaye isheh abeh miyaarhige	Adam amayim isheh abeh mayaarhige
+SAM-GTR-00003	Alex said Monica knew that he might have to do that several more times	Aleekis Monika usuk amayim mangole gedda abo kinam teerhegeh tinem warishe	Aleekis Monika usuk amayim mangole ged abo kinam teerhegeh tinem warishe	Aleekis Monika usuk amayim mangole gul abo kinam teerhegeh tinem warishe
+SAM-GTR-00004	Although Ibero-America is a larger language region, American English carries greater influence in the current world	Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamalle naba tabso leya	Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamal naba wahas leya	Ibero-Ameerika naba luqhat zooba takko kiyah, Ameerikat Ingiliiz, kaafit caalamalle naba wahas yabbirhe.
+SAM-GTR-00005	An office building, with 22 stories above ground and 2 below, is under construction	Baarhot bukalle 22, baarhot addadde lel 2 daraja le maktabti camaara ginniimak tane	Wuli baarhot bukalle 22, baarhok addad lel 2 daraj le maktabti camaara siraaximaa tane	Wuli maktabti gino, 22 baarhot bukahi mackanya kee 2 baarhot addahi mackanlih dhishodde geytimta.
+SAM-GTR-00006	Are you wearing lipstick?	Atu wagaballe hayaanam hashshitteh tanito?	Atu wagabal hayaanam hashshitteh tanito?	Atu wagabal hayaanam hayshitteh tanito?
+SAM-GTR-00007	Beat the egg before putting it in the soup	Amaa lalimta tekeridde haytam warah zib	Amaa lalimta tekerid haytamko basol zib	Amaa lalimta terekeridde haytam warah utuk.
+SAM-GTR-00008	Both Alex and Alice like to play golf	Aleekis kee Aliis lammuk goluf digiraanam kixinon	Aleekis kee Aliis lammik goluf digiraanam kixinon	Aleekis kee Aliis lammii goluf digiraanam kixinon
+SAM-GTR-00009	But she said, We'd rather have Victory because we'll succeed in everything we do.”	Ishe laakin: Nanu ummanimille nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe	Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe	Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tayshe” terhxe
+SAM-GTR-00010	By and by, the bitter north wind began to blow	Amalle anuk, dhacuma waarerta le qilbat xaaxatti dhago erherhishe	Mangum sugekkah, dhacuma qilbat xaaxayti yamrawwaxo erherhishe	Dherh waqhte sugekkah, sirii qilbat xaaxaa xaaxaysho erherhishe.
+SAM-GTR-00011	Daddy, thank you for raising me with such care	Abba, ta gina le anoonoolih yi carhishshemih, gaab yoh isho!	Abba, ta ginah  anoonoolih yi teynebemih, gaab yoh isho	Abba, ta ginah anoonoolih yi carissemih, gaab yoh isoy!
+SAM-GTR-00012	Dogs can't talk, but it's almost as if the puppy's eyes said, No, I don't have a home.	Kaara zidhdhiimoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida	Kaara waanishoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida	Kaara waanishoona marhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida
+SAM-GTR-00013	Don't scream, or you're dead	Mizeerin, hido rabteh tanito	Mizeerin, ohoydo rabteh tanito	Madeerin, ohoydo rabteh tanito
+SAM-GTR-00014	Don't you want to know what happened to Joe?	Joo ayim kaa teseedefem taarhago mifadhdha?	Joo aye geyem taarhago mifadhdha?	Joo aye kaa teseedefem taarhago mafadhdha
+SAM-GTR-00015	George and Olivia said they didn't want to sit with us	Jorjo kee Oliiviya nottaalih defeyoona mifarhaanam warishen	Jorjo kee Oliiviya noolih defeyoona mifarhaanam warishen	Jorjo kee Oliiviya noolih defeyoona mafarhaanam warishen
+SAM-GTR-00016	George said that he didn't have a plan	Jorjo xagara luuk miyinem warishe	Jorjo maxaggaro lii miyinem warishe	Jorjo maxaggaro lii manannam warishe
+SAM-GTR-00017	George said that he doesn't think that Carmen really likes doing that very much	Kaarmen rummah amayim abaanam mikixinamah alle iggidam Jorjo warishe	Kaarmen rummah amaye abaanam mikixinamah el iggidam Jorjo warishe	Kaarmen rummah amaye abaanam makixinamah el iggidam Jorjo warishe
+SAM-GTR-00018	Harry said that he wasn't planning to go swimming tomorrow	Hari beera zabboh yadaw axiggiruk misuginnam warishe	Hari beera igiiloh yadaw axiggirii misuginnam warishe	Hari beera igiiloh yadaw axiggirii manannam warishe
+SAM-GTR-00019	He has no heart at all	Usuk inkinnah naxrurta male	Usuk inkinnah raxma male	Usuk inkinnah Afcaado male
+SAM-GTR-00020	He never let her feel that she doesn't have her mother	Ishi ina malem usuk caduruh adde miyashshaabbe	Ishi ina malem usuk caduruh ed miyashshaabbe	Ishi ina malem usuk caduruh ed mayayshaabbe
+SAM-GTR-00021	He's not worthy of you	Usuk atu akah missil tiya maki	Usuk koyyah mimissila	Usuk koyyah meeda
+SAM-GTR-00022	How many times do you pray in the (24hrs) day?	Atu lellecidde (24sa) ayidhdhale gedda tassilliye?	Atu lellecid (24sa) ayidhdhale gedda tassilliye?	Atin lellecid (24sa) ayidhdhale gul tassilliini?
+SAM-GTR-00023	I am lighting the fire	Anu gira bololishak aniyo	Anu gira bololishaa aniyo	Anu gira urusaa aniyo
+SAM-GTR-00024	I don't have anything better to do	Anu amayimko tashshem abayah inkim maliyo	Anu amayko tashshem abayah inkim maliyo	Anu amayko tayshem abayah inkim maliyo
+SAM-GTR-00025	I don't have to explain myself	Anu inneh abem caddoysho yolle mitane	Anu inneh abem caddooso yol mitane	Anu inneh abem caddooso yol matane
+SAM-GTR-00026	I don't like being around poor people	Anu baaxentitti wakalelle gaxam mikixiniyo	Anu baaxentitti wakalel akkem mikixiniyo	Anu baaxentitti wakalel gaxam makixiniyo
+SAM-GTR-00027	I fear getting married as I don’t want to get separated from you	Anu kottako barhsimamko ciloh marcishimamko mashshiita	Anu kooko barhsimamko ciloh marcishimamko mashshiita	Anu kooko barhsimamko ciloh marcishimamko mayshiita
+SAM-GTR-00028	I found that in the back of the closet	Tamaa tiya armaadiyot caazadde geye	Tamaa tiyä armaadiyot caazad geye	Amaa tiyä armaadiyot caadad geye
+SAM-GTR-00029	I hadn't intended to do that	Amayim abo exeesebeh miiniyo	Amaye abo exeesebeh miiniyo	Amaye abo niyeh mananniyo
+SAM-GTR-00030	I know it's inevitable	Anu amayim miraacen kinam aarhige	Anu amaye miraacen kinam aarhige	Anu amaye maraacen kinam aarhige
+SAM-GTR-00031	I must apologize to Jami	Anu Jaami cafuuka kaa essero yolle tane	Anu Jaami cafuuka kaa essero yol tane	Anu Jaamik: Yolle mabbarhin akko arhxo yolle tane
+SAM-GTR-00032	I pray five times per day	Lellecidde koona gedda assilliye	Lellecid koona ged assilliye	Lellecid koona gul assilliye
+SAM-GTR-00033	I still think we should have invited James to go with us	Anu kaddih axeesebe gedda Jaymis noolih yadaw akah deecimneh nannaw nolle tine	Anu kaddih Jaymis noolih yadaw akah deecimneh nannaw nol tinem kinni akkalem	Anu kaddih axeesebe ged Jaymis noolih yadaw akah deecimneh nannaw nol tine
+SAM-GTR-00034	I think I should tell Oliver where I've been	Akkale gedda Oliiverih alle sugem akah warisho yolle tane	Akkale ged Oliiverih awla sugem akah warisho yol tane	Akkale ged Oliiverih al sugem akah warisho yol tane
+SAM-GTR-00035	I was employee of the year for three years	Anu agiro kin shaqhqhaalattohi ashshowa adooxa iggida beye	Anu agiro kin shaqhqhaalaytohi ashshowa adooxa iggida beye	Anu agiro kin shaqhqhaalaytohi ayshowa adooxa iggida beye
+SAM-GTR-00036	I won't be able to finish doing this in a week	Anu tayim abak baxuurolle bako mirhiica	Anu taye abak liggidinal bako mirhiica	Anu taye abak liggidinal abaysho marhiica
+SAM-GTR-00037	I wonder what Tommy will do	Toomi ayim abo kinam cibra yolle tekkeh tane	Toomi aye abo kinam cibra yol tekkeh tane	Toomi aye abo kinam sorheh aniyo
+SAM-GTR-00038	If William does that, I will, too	Wiliyaam amayim abemko, anu gantah abo kiyo	Wiliyaam amaye abemko, anu gantah abo kiyo	Wiliyaam amaye abemko, anu agantah abo kiyo
+SAM-GTR-00039	It was obvious that Jack had told a lie	Jaakah zirab akah warisheenim mudhdhuk kuuk yine	Jaakah zirab warisheenim mudhdhuk kii yine	Jaakah dirab akah warisheenim mudhdhuk kii yine
+SAM-GTR-00040	James is going to be very thirsty after doing that	Jeymis amayim abemko sarrah mangum bakhaaro kinni	Jeymis amaye abemko lakal mangum bakhaaro kinni	Jeymis amaye abemko lakal mangum baqhaaro kinni
+SAM-GTR-00041	My most beautiful mom, I can never be like you	Yi casa ina (casiina), anu kotta balih akko caduruh mirhiica	Yi casa ina (casiina), anu koyya balih akko caduruh marhiica	Yi casa ina (casiina), anu sina balih akko caduruh marhiica
+SAM-GTR-00042	No one except Jacob knows what really happened	Yacqoobko bextih rummah ayim tekkem yaarhigeti miyane	Yacqoobko bextih rummah aye tekkem yaarhigeti miyane	Yacqoobko sarrah rummah aye tekkem yaarhigeti miyane
+SAM-GTR-00043	No one in my family can do that	Yi xawazadde tamayim walaa inketti abo mirhiica	Yi xawazad tamaye walaa inketti abo mirhiica	Yi xawazad tamaye walaa inketti abo marhiica
+SAM-GTR-00044	Oliver didn't doubt there would be a lot of people there	Oliiver amalle mango xiyaw sugoona kuuk yiniinimih shakke luuk miyine	Oliiver amal mango xiyaw sugoona kii yiniinimih shakke lii miyine	Oliiver amal mango xiyaa sugoona kii yiniinimih shakke lii mananna
+SAM-GTR-00045	Oliver doesn't think Mary is saying what she really thinks	Maryam rummah takkalem arhxuk tanem Oliiver miyakkale	Maryam rummah takkalem arhxii tanem Oliiver miyakkale	Maryam rummah takkalem ayi tanem Oliiver mayakkale
+SAM-GTR-00046	Please let me know about it	Ku beezza, amayimhi sabbatah yi iyshidhdhig	Ku beezza, amayehi sabbatah yi iyshidhdhig	Ku beeda, amayehi sabbatah yi iyshidhdhig
+SAM-GTR-00047	She lied to me	Ishi yolle zirabbitte	Ishe yol zirabbitte	Ishe yol dirabbitte
+SAM-GTR-00048	She told him everything that happened when her husband came	Tee bacli yemeete gedda tekkem inkoh akah warishshe	Tee tiyawti yemeete ged tekkem inkoh akah warishshe	Tee xiyawti yemeete gedda tekkem inkoh akah warishshe
+SAM-GTR-00049	She was eating meat	Ishi xazo beetak tine	Ishi xazo beetaa tine	Ishi xado beetaa tine
+SAM-GTR-00050	Someone threw a rock at her	Wuliti teyal dhaa alle cide	Uliti teyal dhaa el cide	Uliti teyyal dhaa el cide
+SAM-GTR-00051	Tommy doesn't think Lucy really could do that, does he?	Toomi, Luusi amayim abto dhictam miyakkale, makini?	Toomi, Luusi amaye abto dhictam miyakkale, makiho?	Toomi, Luusi amaye abto dhictam mayakkale, makaho?
+SAM-GTR-00052	What are you doing?	Atu ayim abak tanito?	Atin aye abaa taniini?	Atu aa cale abaa tanito?
+SAM-GTR-00053	What happened?	Ayim tekke?	Aye tekke?	Aa cale tekke?
+SAM-GTR-00054	What is her name?	Tee migac miyatto kinni?	Tee migac miyayto kinni?	Tee migac iyyayto kinni?
+SAM-GTR-00055	What is his name?	Kaa migac miyatto kinni?	Kaa migac miyayto kinni?	Kaa migac iyyayto kinni?
+SAM-GTR-00056	What is it?	Ayim kinni?	Aye kinni?	aa cale kinni?
+SAM-GTR-00057	What is love?	Kaxani aymotta kinni?	Kaxani aye kinni?	Kaxani aa cale kinni?
+SAM-GTR-00058	What is your name?	Miyatto ku migac?	Ku migac miyaytö kinni?	Ku migac iyyayto kinni?
+SAM-GTR-00059	When you are here, I have nothing to fear! I love you, Dad	Atu talle tinniyemko, anu akko mashshiitam maliyo! Anu ku kixiniyo, abba	Atu tal tinniyemko, anu ak mashshiitam maliyo! Anu ku kixiniyo, abba	Atu tal tinniyemko, anu ak mayshiitam maliyo! Anu ku kixiniyo, abba
+SAM-GTR-00060	Where can I mail these letters?	Ta fartot awlalle dhirhiyo kiyo?	Awlal kinni ta risaalal dhirhiyo liyom?	Ta waraqhut awlal dhirhiyo kiyo?
+SAM-GTR-00061	Where did you buy all these?	Tayim inkoh awlaako dhamte?	Akkeeko dhamte taye inkoh?	Taye inkoh akkeeko dhamte?
+SAM-GTR-00062	Where have you been yesterday?	Kumal awla tiniini?	Kumal awla tinito?	Kumal al tinito?
+SAM-GTR-00063	Where is your book?	Ku kitaab alle yane?	Ku kitaab awla yane?	Ku kitaab al yane?
+SAM-GTR-00064	Where will you be today?	Atu kaafa alle asso kito?	Atu kaafa awla asso kito?	Atu kaafa al asso kito?
+SAM-GTR-00065	Who are you?	Atu miyatto kito?	Atin miya kitiini?	Atu  iyyaytö kito?
+SAM-GTR-00066	Who called you?	Mii koh deecime?	Miyayti koh deecime?	Iyyi sinah deecime?
+SAM-GTR-00067	Who did it?	Miyatti abe?	Miyaytö abte?	Iyyaytö abte?
+SAM-GTR-00068	Who do you like/love?	Atu miyatto kixinto?	Atin miya kixintiini?	Atu iyya kixinto?
+SAM-GTR-00069	Who do you love the most in your family?	Atu ishi xawazadde ummanimko mangum miyatto kixinto?	Atu ishi xawazad ummanimko mangum miyayto kixinto?	Atin sinni xawazad ummanimko mangum iyyayto kixiniini?
+SAM-GTR-00070	Who do you usually play golf with?	Atu mangih goluf miyattoolih digirta?	Atu mangih goluf miyaalih digirta?	Atu mangih goluf iyyaalih digirta?
+SAM-GTR-00071	Who is at the door?	Carafalle miyatti yane?	Carafal miyayti yane?	Carafal iyyi yane?
+SAM-GTR-00072	Who is coming over?	Miyatti amiituk yane?	Mii amiitii yane?	Iyyaytö amiitii tane?
+SAM-GTR-00073	Who is he?	Usuk miyatto kinni?	Usuk miyayto kinni?	Usuk iyyayto kinni?
+SAM-GTR-00074	Who is she?	Ishi miyattö kinni?	Ishi miyaytö kinni?	Ishi iyyaytö kinni?
+SAM-GTR-00075	Who is stronger?	Miyattö quwwa le?	Miyaytö quwwa le?	Iyyi quwwa le?
+SAM-GTR-00076	Who is the president of Sudan?	Soodan amotti miyatto kinni?	Soodan amoyti miyayto kinni?	Soodan amoyti iyyayto kinni?
+SAM-GTR-00077	Who is this old woman?	Ta naba numa miyattö?	Ta naba numa miyaytö?	Ta naba numa iyyaytö kinni?
+SAM-GTR-00078	Who is your favourite singer?	Atin kixintin margadisheeni miyatto kinni?	Atu kixinto margadisheeni miyayto kinni?	Atu kixinto margadisheeni iyyayto kinni?
+SAM-GTR-00079	Who knows?	Miyatti yaarhige?	Mii yaarhige?	Iyyi yaarhige?
+SAM-GTR-00080	Who says, A mother and son can’t be the best friends?” I still don’t feel relax till I tell you everything. Your touch and words are like medicine. I love you mommy	Miyatto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku zirhi yottah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)	Miyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)	Iyyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona marhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)
+SAM-GTR-00081	Who went with you yesterday?	Kumal miyyi sinlih yedee?	Kumal miyayti sinlih tedee?	Kumal iyyi koolih yedee?
+SAM-GTR-00082	Who won the game?	Digirille mii yusluge?	Digiril miyayti yusluge?	Digiril iyyi yusluge?
+SAM-GTR-00083	Who wrote this book?	Ta kitaab mii yuktube?	Ta kitaab miyayti yuktube?	Ta kitaab iyyi yuktube?
+SAM-GTR-00084	Whose bag is this?	Ta shantha miyatti tiyä kinni?	Ta shantha mii tiyä kinni?	Ta shantha iyyin tiyä kinni?
+SAM-GTR-00085	Whose car is this?	Ta makiina mii tiyä kinni?	Ta makiina miyayti tiyä kinni?	Ta makiina iyyin tiya kinni?
+SAM-GTR-00086	Whose child that has cough?	Ufuca lem miyatti cindhooka kinni?	Ufuca lem mii cindhooka kinni?	Ufuca lem iyyin cindhooka kinni?
+SAM-GTR-00087	Why are you laughing?	Atu ayimih aasulituk tanito?	Atu ayeh aasulii tanito?	Atin ayeh aasulii taniini?
+SAM-GTR-00088	Why are you so happy?	Atu ayimih xedentak tanito?	Atu ayeh xedenaa tanito?	Atin ayeh xedenaa taniini?
+SAM-GTR-00089	Will Margaret really be doing that by herself?	Rummah Margaret amayim inkoh isheh abto kinni?	Rummah Margaret amaye inkoh isheh abto kinni?	Rummah Margaret tamaye inkoh isheh abto kinni?
+SAM-GTR-00090	You heard a noise behind you	Atu ishi caazadde andhax toobbe	Atu ishi caazad andhax toobbe	Atu ishi caadad andhax toobbe
+SAM-GTR-00091	You're not going in there	Atin amalle aduuk mitaniini	Atu amal adii mitanito	Atu amal adii matane
+SAM-GTR-00092	love creates hope even in the hardest times	kaxani uma waqhtedde gantah cag xiyaah yakke	kaxani uma uddurud gantah cag xiyaah yakke	kaxani uma gul gantah niya xiyaah yakke
+SAM-GTR-00093	mercy brings us closer to each other	Raxmatta sittiyalle kab ni ishsha	Raxmatta sittiyal kab ni ishsha	Raxmatta sittiyal kab ni isissa
