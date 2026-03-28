@@ -1,0 +1,574 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saaho Multi-Dialect Parallel Corpus</title>
+         </titleStmt>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list>
+            <item xml_id="SAM-GTR-00001">
+               <seg type="source" lang="en">Adam did that, even though he didn't need to</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Adam abo kaalle mitine haaki, amayim abe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Adam abo kaal mitine haaki, amaye abe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Adam abo kaal mitine hayki, amaye abe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00002">
+               <seg type="source" lang="en">Adam has never done that by himself</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Adam amayim isheh abeh miyaarhige</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Adam amaye isheh abeh miyaarhige</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Adam amayim isheh abeh mayaarhige</seg>
+            </item>
+            <item xml_id="SAM-GTR-00003">
+               <seg type="source" lang="en">Alex said Monica knew that he might have to do that several more times</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Aleekis Monika usuk amayim mangole gedda abo kinam teerhegeh tinem warishe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Aleekis Monika usuk amayim mangole ged abo kinam teerhegeh tinem warishe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Aleekis Monika usuk amayim mangole gul abo kinam teerhegeh tinem warishe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00004">
+               <seg type="source" lang="en">Although Ibero-America is a larger language region, American English carries greater influence in the current world</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamalle naba tabso leya</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamal naba wahas leya</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ibero-Ameerika naba luqhat zooba takko kiyah, Ameerikat Ingiliiz, kaafit caalamalle naba wahas yabbirhe.</seg>
+            </item>
+            <item xml_id="SAM-GTR-00005">
+               <seg type="source" lang="en">An office building, with 22 stories above ground and 2 below, is under construction</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Baarhot bukalle 22, baarhot addadde lel 2 daraja le maktabti camaara ginniimak tane</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Wuli baarhot bukalle 22, baarhok addad lel 2 daraj le maktabti camaara siraaximaa tane</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Wuli maktabti gino, 22 baarhot bukahi mackanya kee 2 baarhot addahi mackanlih dhishodde geytimta.</seg>
+            </item>
+            <item xml_id="SAM-GTR-00006">
+               <seg type="source" lang="en">Are you wearing lipstick?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu wagaballe hayaanam hashshitteh tanito?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu wagabal hayaanam hashshitteh tanito?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu wagabal hayaanam hayshitteh tanito?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00007">
+               <seg type="source" lang="en">Beat the egg before putting it in the soup</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Amaa lalimta tekeridde haytam warah zib</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Amaa lalimta tekerid haytamko basol zib</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Amaa lalimta terekeridde haytam warah utuk.</seg>
+            </item>
+            <item xml_id="SAM-GTR-00008">
+               <seg type="source" lang="en">Both Alex and Alice like to play golf</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Aleekis kee Aliis lammuk goluf digiraanam kixinon</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Aleekis kee Aliis lammik goluf digiraanam kixinon</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Aleekis kee Aliis lammii goluf digiraanam kixinon</seg>
+            </item>
+            <item xml_id="SAM-GTR-00009">
+               <seg type="source" lang="en">But she said, We'd rather have Victory because we'll succeed in everything we do.”</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ishe laakin: Nanu ummanimille nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tayshe” terhxe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00010">
+               <seg type="source" lang="en">By and by, the bitter north wind began to blow</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Amalle anuk, dhacuma waarerta le qilbat xaaxatti dhago erherhishe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Mangum sugekkah, dhacuma qilbat xaaxayti yamrawwaxo erherhishe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Dherh waqhte sugekkah, sirii qilbat xaaxaa xaaxaysho erherhishe.</seg>
+            </item>
+            <item xml_id="SAM-GTR-00011">
+               <seg type="source" lang="en">Daddy, thank you for raising me with such care</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Abba, ta gina le anoonoolih yi carhishshemih, gaab yoh isho!</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Abba, ta ginah  anoonoolih yi teynebemih, gaab yoh isho</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Abba, ta ginah anoonoolih yi carissemih, gaab yoh isoy!</seg>
+            </item>
+            <item xml_id="SAM-GTR-00012">
+               <seg type="source" lang="en">Dogs can't talk, but it's almost as if the puppy's eyes said, No, I don't have a home.</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Kaara zidhdhiimoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Kaara waanishoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Kaara waanishoona marhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida</seg>
+            </item>
+            <item xml_id="SAM-GTR-00013">
+               <seg type="source" lang="en">Don't scream, or you're dead</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Mizeerin, hido rabteh tanito</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Mizeerin, ohoydo rabteh tanito</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Madeerin, ohoydo rabteh tanito</seg>
+            </item>
+            <item xml_id="SAM-GTR-00014">
+               <seg type="source" lang="en">Don't you want to know what happened to Joe?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Joo ayim kaa teseedefem taarhago mifadhdha?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Joo aye geyem taarhago mifadhdha?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Joo aye kaa teseedefem taarhago mafadhdha</seg>
+            </item>
+            <item xml_id="SAM-GTR-00015">
+               <seg type="source" lang="en">George and Olivia said they didn't want to sit with us</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Jorjo kee Oliiviya nottaalih defeyoona mifarhaanam warishen</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Jorjo kee Oliiviya noolih defeyoona mifarhaanam warishen</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Jorjo kee Oliiviya noolih defeyoona mafarhaanam warishen</seg>
+            </item>
+            <item xml_id="SAM-GTR-00016">
+               <seg type="source" lang="en">George said that he didn't have a plan</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Jorjo xagara luuk miyinem warishe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Jorjo maxaggaro lii miyinem warishe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Jorjo maxaggaro lii manannam warishe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00017">
+               <seg type="source" lang="en">George said that he doesn't think that Carmen really likes doing that very much</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Kaarmen rummah amayim abaanam mikixinamah alle iggidam Jorjo warishe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Kaarmen rummah amaye abaanam mikixinamah el iggidam Jorjo warishe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Kaarmen rummah amaye abaanam makixinamah el iggidam Jorjo warishe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00018">
+               <seg type="source" lang="en">Harry said that he wasn't planning to go swimming tomorrow</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Hari beera zabboh yadaw axiggiruk misuginnam warishe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Hari beera igiiloh yadaw axiggirii misuginnam warishe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Hari beera igiiloh yadaw axiggirii manannam warishe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00019">
+               <seg type="source" lang="en">He has no heart at all</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Usuk inkinnah naxrurta male</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Usuk inkinnah raxma male</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Usuk inkinnah Afcaado male</seg>
+            </item>
+            <item xml_id="SAM-GTR-00020">
+               <seg type="source" lang="en">He never let her feel that she doesn't have her mother</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ishi ina malem usuk caduruh adde miyashshaabbe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ishi ina malem usuk caduruh ed miyashshaabbe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ishi ina malem usuk caduruh ed mayayshaabbe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00021">
+               <seg type="source" lang="en">He's not worthy of you</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Usuk atu akah missil tiya maki</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Usuk koyyah mimissila</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Usuk koyyah meeda</seg>
+            </item>
+            <item xml_id="SAM-GTR-00022">
+               <seg type="source" lang="en">How many times do you pray in the (24hrs) day?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu lellecidde (24sa) ayidhdhale gedda tassilliye?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu lellecid (24sa) ayidhdhale gedda tassilliye?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atin lellecid (24sa) ayidhdhale gul tassilliini?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00023">
+               <seg type="source" lang="en">I am lighting the fire</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu gira bololishak aniyo</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu gira bololishaa aniyo</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu gira urusaa aniyo</seg>
+            </item>
+            <item xml_id="SAM-GTR-00024">
+               <seg type="source" lang="en">I don't have anything better to do</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu amayimko tashshem abayah inkim maliyo</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu amayko tashshem abayah inkim maliyo</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu amayko tayshem abayah inkim maliyo</seg>
+            </item>
+            <item xml_id="SAM-GTR-00025">
+               <seg type="source" lang="en">I don't have to explain myself</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu inneh abem caddoysho yolle mitane</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu inneh abem caddooso yol mitane</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu inneh abem caddooso yol matane</seg>
+            </item>
+            <item xml_id="SAM-GTR-00026">
+               <seg type="source" lang="en">I don't like being around poor people</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu baaxentitti wakalelle gaxam mikixiniyo</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu baaxentitti wakalel akkem mikixiniyo</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu baaxentitti wakalel gaxam makixiniyo</seg>
+            </item>
+            <item xml_id="SAM-GTR-00027">
+               <seg type="source" lang="en">I fear getting married as I don’t want to get separated from you</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu kottako barhsimamko ciloh marcishimamko mashshiita</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu kooko barhsimamko ciloh marcishimamko mashshiita</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu kooko barhsimamko ciloh marcishimamko mayshiita</seg>
+            </item>
+            <item xml_id="SAM-GTR-00028">
+               <seg type="source" lang="en">I found that in the back of the closet</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Tamaa tiya armaadiyot caazadde geye</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Tamaa tiyä armaadiyot caazad geye</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Amaa tiyä armaadiyot caadad geye</seg>
+            </item>
+            <item xml_id="SAM-GTR-00029">
+               <seg type="source" lang="en">I hadn't intended to do that</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Amayim abo exeesebeh miiniyo</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Amaye abo exeesebeh miiniyo</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Amaye abo niyeh mananniyo</seg>
+            </item>
+            <item xml_id="SAM-GTR-00030">
+               <seg type="source" lang="en">I know it's inevitable</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu amayim miraacen kinam aarhige</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu amaye miraacen kinam aarhige</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu amaye maraacen kinam aarhige</seg>
+            </item>
+            <item xml_id="SAM-GTR-00031">
+               <seg type="source" lang="en">I must apologize to Jami</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu Jaami cafuuka kaa essero yolle tane</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu Jaami cafuuka kaa essero yol tane</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu Jaamik: Yolle mabbarhin akko arhxo yolle tane</seg>
+            </item>
+            <item xml_id="SAM-GTR-00032">
+               <seg type="source" lang="en">I pray five times per day</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Lellecidde koona gedda assilliye</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Lellecid koona ged assilliye</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Lellecid koona gul assilliye</seg>
+            </item>
+            <item xml_id="SAM-GTR-00033">
+               <seg type="source" lang="en">I still think we should have invited James to go with us</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu kaddih axeesebe gedda Jaymis noolih yadaw akah deecimneh nannaw nolle tine</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu kaddih Jaymis noolih yadaw akah deecimneh nannaw nol tinem kinni akkalem</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu kaddih axeesebe ged Jaymis noolih yadaw akah deecimneh nannaw nol tine</seg>
+            </item>
+            <item xml_id="SAM-GTR-00034">
+               <seg type="source" lang="en">I think I should tell Oliver where I've been</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Akkale gedda Oliiverih alle sugem akah warisho yolle tane</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Akkale ged Oliiverih awla sugem akah warisho yol tane</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Akkale ged Oliiverih al sugem akah warisho yol tane</seg>
+            </item>
+            <item xml_id="SAM-GTR-00035">
+               <seg type="source" lang="en">I was employee of the year for three years</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu agiro kin shaqhqhaalattohi ashshowa adooxa iggida beye</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu agiro kin shaqhqhaalaytohi ashshowa adooxa iggida beye</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu agiro kin shaqhqhaalaytohi ayshowa adooxa iggida beye</seg>
+            </item>
+            <item xml_id="SAM-GTR-00036">
+               <seg type="source" lang="en">I won't be able to finish doing this in a week</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Anu tayim abak baxuurolle bako mirhiica</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Anu taye abak liggidinal bako mirhiica</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Anu taye abak liggidinal abaysho marhiica</seg>
+            </item>
+            <item xml_id="SAM-GTR-00037">
+               <seg type="source" lang="en">I wonder what Tommy will do</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Toomi ayim abo kinam cibra yolle tekkeh tane</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Toomi aye abo kinam cibra yol tekkeh tane</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Toomi aye abo kinam sorheh aniyo</seg>
+            </item>
+            <item xml_id="SAM-GTR-00038">
+               <seg type="source" lang="en">If William does that, I will, too</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Wiliyaam amayim abemko, anu gantah abo kiyo</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Wiliyaam amaye abemko, anu gantah abo kiyo</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Wiliyaam amaye abemko, anu agantah abo kiyo</seg>
+            </item>
+            <item xml_id="SAM-GTR-00039">
+               <seg type="source" lang="en">It was obvious that Jack had told a lie</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Jaakah zirab akah warisheenim mudhdhuk kuuk yine</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Jaakah zirab warisheenim mudhdhuk kii yine</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Jaakah dirab akah warisheenim mudhdhuk kii yine</seg>
+            </item>
+            <item xml_id="SAM-GTR-00040">
+               <seg type="source" lang="en">James is going to be very thirsty after doing that</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Jeymis amayim abemko sarrah mangum bakhaaro kinni</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Jeymis amaye abemko lakal mangum bakhaaro kinni</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Jeymis amaye abemko lakal mangum baqhaaro kinni</seg>
+            </item>
+            <item xml_id="SAM-GTR-00041">
+               <seg type="source" lang="en">My most beautiful mom, I can never be like you</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Yi casa ina (casiina), anu kotta balih akko caduruh mirhiica</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Yi casa ina (casiina), anu koyya balih akko caduruh marhiica</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Yi casa ina (casiina), anu sina balih akko caduruh marhiica</seg>
+            </item>
+            <item xml_id="SAM-GTR-00042">
+               <seg type="source" lang="en">No one except Jacob knows what really happened</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Yacqoobko bextih rummah ayim tekkem yaarhigeti miyane</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Yacqoobko bextih rummah aye tekkem yaarhigeti miyane</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Yacqoobko sarrah rummah aye tekkem yaarhigeti miyane</seg>
+            </item>
+            <item xml_id="SAM-GTR-00043">
+               <seg type="source" lang="en">No one in my family can do that</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Yi xawazadde tamayim walaa inketti abo mirhiica</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Yi xawazad tamaye walaa inketti abo mirhiica</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Yi xawazad tamaye walaa inketti abo marhiica</seg>
+            </item>
+            <item xml_id="SAM-GTR-00044">
+               <seg type="source" lang="en">Oliver didn't doubt there would be a lot of people there</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Oliiver amalle mango xiyaw sugoona kuuk yiniinimih shakke luuk miyine</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Oliiver amal mango xiyaw sugoona kii yiniinimih shakke lii miyine</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Oliiver amal mango xiyaa sugoona kii yiniinimih shakke lii mananna</seg>
+            </item>
+            <item xml_id="SAM-GTR-00045">
+               <seg type="source" lang="en">Oliver doesn't think Mary is saying what she really thinks</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Maryam rummah takkalem arhxuk tanem Oliiver miyakkale</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Maryam rummah takkalem arhxii tanem Oliiver miyakkale</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Maryam rummah takkalem ayi tanem Oliiver mayakkale</seg>
+            </item>
+            <item xml_id="SAM-GTR-00046">
+               <seg type="source" lang="en">Please let me know about it</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ku beezza, amayimhi sabbatah yi iyshidhdhig</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ku beezza, amayehi sabbatah yi iyshidhdhig</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ku beeda, amayehi sabbatah yi iyshidhdhig</seg>
+            </item>
+            <item xml_id="SAM-GTR-00047">
+               <seg type="source" lang="en">She lied to me</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ishi yolle zirabbitte</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ishe yol zirabbitte</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ishe yol dirabbitte</seg>
+            </item>
+            <item xml_id="SAM-GTR-00048">
+               <seg type="source" lang="en">She told him everything that happened when her husband came</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Tee bacli yemeete gedda tekkem inkoh akah warishshe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Tee tiyawti yemeete ged tekkem inkoh akah warishshe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Tee xiyawti yemeete gedda tekkem inkoh akah warishshe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00049">
+               <seg type="source" lang="en">She was eating meat</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ishi xazo beetak tine</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ishi xazo beetaa tine</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ishi xado beetaa tine</seg>
+            </item>
+            <item xml_id="SAM-GTR-00050">
+               <seg type="source" lang="en">Someone threw a rock at her</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Wuliti teyal dhaa alle cide</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Uliti teyal dhaa el cide</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Uliti teyyal dhaa el cide</seg>
+            </item>
+            <item xml_id="SAM-GTR-00051">
+               <seg type="source" lang="en">Tommy doesn't think Lucy really could do that, does he?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Toomi, Luusi amayim abto dhictam miyakkale, makini?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Toomi, Luusi amaye abto dhictam miyakkale, makiho?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Toomi, Luusi amaye abto dhictam mayakkale, makaho?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00052">
+               <seg type="source" lang="en">What are you doing?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu ayim abak tanito?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atin aye abaa taniini?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu aa cale abaa tanito?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00053">
+               <seg type="source" lang="en">What happened?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ayim tekke?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Aye tekke?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Aa cale tekke?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00054">
+               <seg type="source" lang="en">What is her name?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Tee migac miyatto kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Tee migac miyayto kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Tee migac iyyayto kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00055">
+               <seg type="source" lang="en">What is his name?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Kaa migac miyatto kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Kaa migac miyayto kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Kaa migac iyyayto kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00056">
+               <seg type="source" lang="en">What is it?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ayim kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Aye kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">aa cale kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00057">
+               <seg type="source" lang="en">What is love?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Kaxani aymotta kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Kaxani aye kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Kaxani aa cale kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00058">
+               <seg type="source" lang="en">What is your name?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Miyatto ku migac?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ku migac miyaytö kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ku migac iyyayto kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00059">
+               <seg type="source" lang="en">When you are here, I have nothing to fear! I love you, Dad</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu talle tinniyemko, anu akko mashshiitam maliyo! Anu ku kixiniyo, abba</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu tal tinniyemko, anu ak mashshiitam maliyo! Anu ku kixiniyo, abba</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu tal tinniyemko, anu ak mayshiitam maliyo! Anu ku kixiniyo, abba</seg>
+            </item>
+            <item xml_id="SAM-GTR-00060">
+               <seg type="source" lang="en">Where can I mail these letters?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ta fartot awlalle dhirhiyo kiyo?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Awlal kinni ta risaalal dhirhiyo liyom?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ta waraqhut awlal dhirhiyo kiyo?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00061">
+               <seg type="source" lang="en">Where did you buy all these?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Tayim inkoh awlaako dhamte?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Akkeeko dhamte taye inkoh?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Taye inkoh akkeeko dhamte?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00062">
+               <seg type="source" lang="en">Where have you been yesterday?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Kumal awla tiniini?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Kumal awla tinito?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Kumal al tinito?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00063">
+               <seg type="source" lang="en">Where is your book?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ku kitaab alle yane?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ku kitaab awla yane?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ku kitaab al yane?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00064">
+               <seg type="source" lang="en">Where will you be today?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu kaafa alle asso kito?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu kaafa awla asso kito?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu kaafa al asso kito?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00065">
+               <seg type="source" lang="en">Who are you?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu miyatto kito?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atin miya kitiini?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu  iyyaytö kito?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00066">
+               <seg type="source" lang="en">Who called you?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Mii koh deecime?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Miyayti koh deecime?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Iyyi sinah deecime?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00067">
+               <seg type="source" lang="en">Who did it?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Miyatti abe?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Miyaytö abte?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Iyyaytö abte?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00068">
+               <seg type="source" lang="en">Who do you like/love?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu miyatto kixinto?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atin miya kixintiini?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu iyya kixinto?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00069">
+               <seg type="source" lang="en">Who do you love the most in your family?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu ishi xawazadde ummanimko mangum miyatto kixinto?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu ishi xawazad ummanimko mangum miyayto kixinto?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atin sinni xawazad ummanimko mangum iyyayto kixiniini?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00070">
+               <seg type="source" lang="en">Who do you usually play golf with?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu mangih goluf miyattoolih digirta?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu mangih goluf miyaalih digirta?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu mangih goluf iyyaalih digirta?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00071">
+               <seg type="source" lang="en">Who is at the door?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Carafalle miyatti yane?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Carafal miyayti yane?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Carafal iyyi yane?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00072">
+               <seg type="source" lang="en">Who is coming over?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Miyatti amiituk yane?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Mii amiitii yane?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Iyyaytö amiitii tane?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00073">
+               <seg type="source" lang="en">Who is he?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Usuk miyatto kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Usuk miyayto kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Usuk iyyayto kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00074">
+               <seg type="source" lang="en">Who is she?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ishi miyattö kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ishi miyaytö kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ishi iyyaytö kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00075">
+               <seg type="source" lang="en">Who is stronger?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Miyattö quwwa le?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Miyaytö quwwa le?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Iyyi quwwa le?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00076">
+               <seg type="source" lang="en">Who is the president of Sudan?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Soodan amotti miyatto kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Soodan amoyti miyayto kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Soodan amoyti iyyayto kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00077">
+               <seg type="source" lang="en">Who is this old woman?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ta naba numa miyattö?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ta naba numa miyaytö?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ta naba numa iyyaytö kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00078">
+               <seg type="source" lang="en">Who is your favourite singer?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atin kixintin margadisheeni miyatto kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu kixinto margadisheeni miyayto kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu kixinto margadisheeni iyyayto kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00079">
+               <seg type="source" lang="en">Who knows?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Miyatti yaarhige?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Mii yaarhige?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Iyyi yaarhige?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00080">
+               <seg type="source" lang="en">Who says, A mother and son can’t be the best friends?” I still don’t feel relax till I tell you everything. Your touch and words are like medicine. I love you mommy</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Miyatto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku zirhi yottah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Miyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Iyyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona marhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)</seg>
+            </item>
+            <item xml_id="SAM-GTR-00081">
+               <seg type="source" lang="en">Who went with you yesterday?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Kumal miyyi sinlih yedee?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Kumal miyayti sinlih tedee?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Kumal iyyi koolih yedee?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00082">
+               <seg type="source" lang="en">Who won the game?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Digirille mii yusluge?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Digiril miyayti yusluge?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Digiril iyyi yusluge?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00083">
+               <seg type="source" lang="en">Who wrote this book?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ta kitaab mii yuktube?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ta kitaab miyayti yuktube?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ta kitaab iyyi yuktube?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00084">
+               <seg type="source" lang="en">Whose bag is this?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ta shantha miyatti tiyä kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ta shantha mii tiyä kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ta shantha iyyin tiyä kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00085">
+               <seg type="source" lang="en">Whose car is this?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ta makiina mii tiyä kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ta makiina miyayti tiyä kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ta makiina iyyin tiya kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00086">
+               <seg type="source" lang="en">Whose child that has cough?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Ufuca lem miyatti cindhooka kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Ufuca lem mii cindhooka kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Ufuca lem iyyin cindhooka kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00087">
+               <seg type="source" lang="en">Why are you laughing?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu ayimih aasulituk tanito?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu ayeh aasulii tanito?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atin ayeh aasulii taniini?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00088">
+               <seg type="source" lang="en">Why are you so happy?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu ayimih xedentak tanito?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu ayeh xedenaa tanito?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atin ayeh xedenaa taniini?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00089">
+               <seg type="source" lang="en">Will Margaret really be doing that by herself?</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Rummah Margaret amayim inkoh isheh abto kinni?</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Rummah Margaret amaye inkoh isheh abto kinni?</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Rummah Margaret tamaye inkoh isheh abto kinni?</seg>
+            </item>
+            <item xml_id="SAM-GTR-00090">
+               <seg type="source" lang="en">You heard a noise behind you</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atu ishi caazadde andhax toobbe</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu ishi caazad andhax toobbe</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu ishi caadad andhax toobbe</seg>
+            </item>
+            <item xml_id="SAM-GTR-00091">
+               <seg type="source" lang="en">You're not going in there</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Atin amalle aduuk mitaniini</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Atu amal adii mitanito</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Atu amal adii matane</seg>
+            </item>
+            <item xml_id="SAM-GTR-00092">
+               <seg type="source" lang="en">love creates hope even in the hardest times</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">kaxani uma waqhtedde gantah cag xiyaah yakke</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">kaxani uma uddurud gantah cag xiyaah yakke</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">kaxani uma gul gantah niya xiyaah yakke</seg>
+            </item>
+            <item xml_id="SAM-GTR-00093">
+               <seg type="source" lang="en">mercy brings us closer to each other</seg>
+               <seg type="variant" subtype="North" lang="ssy-N">Raxmatta sittiyalle kab ni ishsha</seg>
+               <seg type="variant" subtype="Central" lang="ssy-C">Raxmatta sittiyal kab ni ishsha</seg>
+               <seg type="variant" subtype="South" lang="ssy-S">Raxmatta sittiyal kab ni isissa</seg>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

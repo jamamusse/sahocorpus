@@ -1,0 +1,654 @@
+<?xml version="1.0" ?>
+<SaahoDataset>
+   <Record>
+      <ID>SAM-GTR-00001</ID>
+      <Source_EN>Adam did that, even though he didn't need to</Source_EN>
+      <Target_Saho_North>Adam abo kaalle mitine haaki, amayim abe</Target_Saho_North>
+      <Target_Saho_Central>Adam abo kaal mitine haaki, amaye abe</Target_Saho_Central>
+      <Target_Saho_South>Adam abo kaal mitine hayki, amaye abe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00002</ID>
+      <Source_EN>Adam has never done that by himself</Source_EN>
+      <Target_Saho_North>Adam amayim isheh abeh miyaarhige</Target_Saho_North>
+      <Target_Saho_Central>Adam amaye isheh abeh miyaarhige</Target_Saho_Central>
+      <Target_Saho_South>Adam amayim isheh abeh mayaarhige</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00003</ID>
+      <Source_EN>Alex said Monica knew that he might have to do that several more times</Source_EN>
+      <Target_Saho_North>Aleekis Monika usuk amayim mangole gedda abo kinam teerhegeh tinem warishe</Target_Saho_North>
+      <Target_Saho_Central>Aleekis Monika usuk amayim mangole ged abo kinam teerhegeh tinem warishe</Target_Saho_Central>
+      <Target_Saho_South>Aleekis Monika usuk amayim mangole gul abo kinam teerhegeh tinem warishe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00004</ID>
+      <Source_EN>Although Ibero-America is a larger language region, American English carries greater influence in the current world</Source_EN>
+      <Target_Saho_North>Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamalle naba tabso leya</Target_Saho_North>
+      <Target_Saho_Central>Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamal naba wahas leya</Target_Saho_Central>
+      <Target_Saho_South>Ibero-Ameerika naba luqhat zooba takko kiyah, Ameerikat Ingiliiz, kaafit caalamalle naba wahas yabbirhe.</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00005</ID>
+      <Source_EN>An office building, with 22 stories above ground and 2 below, is under construction</Source_EN>
+      <Target_Saho_North>Baarhot bukalle 22, baarhot addadde lel 2 daraja le maktabti camaara ginniimak tane</Target_Saho_North>
+      <Target_Saho_Central>Wuli baarhot bukalle 22, baarhok addad lel 2 daraj le maktabti camaara siraaximaa tane</Target_Saho_Central>
+      <Target_Saho_South>Wuli maktabti gino, 22 baarhot bukahi mackanya kee 2 baarhot addahi mackanlih dhishodde geytimta.</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00006</ID>
+      <Source_EN>Are you wearing lipstick?</Source_EN>
+      <Target_Saho_North>Atu wagaballe hayaanam hashshitteh tanito?</Target_Saho_North>
+      <Target_Saho_Central>Atu wagabal hayaanam hashshitteh tanito?</Target_Saho_Central>
+      <Target_Saho_South>Atu wagabal hayaanam hayshitteh tanito?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00007</ID>
+      <Source_EN>Beat the egg before putting it in the soup</Source_EN>
+      <Target_Saho_North>Amaa lalimta tekeridde haytam warah zib</Target_Saho_North>
+      <Target_Saho_Central>Amaa lalimta tekerid haytamko basol zib</Target_Saho_Central>
+      <Target_Saho_South>Amaa lalimta terekeridde haytam warah utuk.</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00008</ID>
+      <Source_EN>Both Alex and Alice like to play golf</Source_EN>
+      <Target_Saho_North>Aleekis kee Aliis lammuk goluf digiraanam kixinon</Target_Saho_North>
+      <Target_Saho_Central>Aleekis kee Aliis lammik goluf digiraanam kixinon</Target_Saho_Central>
+      <Target_Saho_South>Aleekis kee Aliis lammii goluf digiraanam kixinon</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00009</ID>
+      <Source_EN>But she said, We'd rather have Victory because we'll succeed in everything we do.”</Source_EN>
+      <Target_Saho_North>Ishe laakin: Nanu ummanimille nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe</Target_Saho_North>
+      <Target_Saho_Central>Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe</Target_Saho_Central>
+      <Target_Saho_South>Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tayshe” terhxe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00010</ID>
+      <Source_EN>By and by, the bitter north wind began to blow</Source_EN>
+      <Target_Saho_North>Amalle anuk, dhacuma waarerta le qilbat xaaxatti dhago erherhishe</Target_Saho_North>
+      <Target_Saho_Central>Mangum sugekkah, dhacuma qilbat xaaxayti yamrawwaxo erherhishe</Target_Saho_Central>
+      <Target_Saho_South>Dherh waqhte sugekkah, sirii qilbat xaaxaa xaaxaysho erherhishe.</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00011</ID>
+      <Source_EN>Daddy, thank you for raising me with such care</Source_EN>
+      <Target_Saho_North>Abba, ta gina le anoonoolih yi carhishshemih, gaab yoh isho!</Target_Saho_North>
+      <Target_Saho_Central>Abba, ta ginah  anoonoolih yi teynebemih, gaab yoh isho</Target_Saho_Central>
+      <Target_Saho_South>Abba, ta ginah anoonoolih yi carissemih, gaab yoh isoy!</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00012</ID>
+      <Source_EN>Dogs can't talk, but it's almost as if the puppy's eyes said, No, I don't have a home.</Source_EN>
+      <Target_Saho_North>Kaara zidhdhiimoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida</Target_Saho_North>
+      <Target_Saho_Central>Kaara waanishoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida</Target_Saho_Central>
+      <Target_Saho_South>Kaara waanishoona marhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00013</ID>
+      <Source_EN>Don't scream, or you're dead</Source_EN>
+      <Target_Saho_North>Mizeerin, hido rabteh tanito</Target_Saho_North>
+      <Target_Saho_Central>Mizeerin, ohoydo rabteh tanito</Target_Saho_Central>
+      <Target_Saho_South>Madeerin, ohoydo rabteh tanito</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00014</ID>
+      <Source_EN>Don't you want to know what happened to Joe?</Source_EN>
+      <Target_Saho_North>Joo ayim kaa teseedefem taarhago mifadhdha?</Target_Saho_North>
+      <Target_Saho_Central>Joo aye geyem taarhago mifadhdha?</Target_Saho_Central>
+      <Target_Saho_South>Joo aye kaa teseedefem taarhago mafadhdha</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00015</ID>
+      <Source_EN>George and Olivia said they didn't want to sit with us</Source_EN>
+      <Target_Saho_North>Jorjo kee Oliiviya nottaalih defeyoona mifarhaanam warishen</Target_Saho_North>
+      <Target_Saho_Central>Jorjo kee Oliiviya noolih defeyoona mifarhaanam warishen</Target_Saho_Central>
+      <Target_Saho_South>Jorjo kee Oliiviya noolih defeyoona mafarhaanam warishen</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00016</ID>
+      <Source_EN>George said that he didn't have a plan</Source_EN>
+      <Target_Saho_North>Jorjo xagara luuk miyinem warishe</Target_Saho_North>
+      <Target_Saho_Central>Jorjo maxaggaro lii miyinem warishe</Target_Saho_Central>
+      <Target_Saho_South>Jorjo maxaggaro lii manannam warishe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00017</ID>
+      <Source_EN>George said that he doesn't think that Carmen really likes doing that very much</Source_EN>
+      <Target_Saho_North>Kaarmen rummah amayim abaanam mikixinamah alle iggidam Jorjo warishe</Target_Saho_North>
+      <Target_Saho_Central>Kaarmen rummah amaye abaanam mikixinamah el iggidam Jorjo warishe</Target_Saho_Central>
+      <Target_Saho_South>Kaarmen rummah amaye abaanam makixinamah el iggidam Jorjo warishe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00018</ID>
+      <Source_EN>Harry said that he wasn't planning to go swimming tomorrow</Source_EN>
+      <Target_Saho_North>Hari beera zabboh yadaw axiggiruk misuginnam warishe</Target_Saho_North>
+      <Target_Saho_Central>Hari beera igiiloh yadaw axiggirii misuginnam warishe</Target_Saho_Central>
+      <Target_Saho_South>Hari beera igiiloh yadaw axiggirii manannam warishe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00019</ID>
+      <Source_EN>He has no heart at all</Source_EN>
+      <Target_Saho_North>Usuk inkinnah naxrurta male</Target_Saho_North>
+      <Target_Saho_Central>Usuk inkinnah raxma male</Target_Saho_Central>
+      <Target_Saho_South>Usuk inkinnah Afcaado male</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00020</ID>
+      <Source_EN>He never let her feel that she doesn't have her mother</Source_EN>
+      <Target_Saho_North>Ishi ina malem usuk caduruh adde miyashshaabbe</Target_Saho_North>
+      <Target_Saho_Central>Ishi ina malem usuk caduruh ed miyashshaabbe</Target_Saho_Central>
+      <Target_Saho_South>Ishi ina malem usuk caduruh ed mayayshaabbe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00021</ID>
+      <Source_EN>He's not worthy of you</Source_EN>
+      <Target_Saho_North>Usuk atu akah missil tiya maki</Target_Saho_North>
+      <Target_Saho_Central>Usuk koyyah mimissila</Target_Saho_Central>
+      <Target_Saho_South>Usuk koyyah meeda</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00022</ID>
+      <Source_EN>How many times do you pray in the (24hrs) day?</Source_EN>
+      <Target_Saho_North>Atu lellecidde (24sa) ayidhdhale gedda tassilliye?</Target_Saho_North>
+      <Target_Saho_Central>Atu lellecid (24sa) ayidhdhale gedda tassilliye?</Target_Saho_Central>
+      <Target_Saho_South>Atin lellecid (24sa) ayidhdhale gul tassilliini?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00023</ID>
+      <Source_EN>I am lighting the fire</Source_EN>
+      <Target_Saho_North>Anu gira bololishak aniyo</Target_Saho_North>
+      <Target_Saho_Central>Anu gira bololishaa aniyo</Target_Saho_Central>
+      <Target_Saho_South>Anu gira urusaa aniyo</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00024</ID>
+      <Source_EN>I don't have anything better to do</Source_EN>
+      <Target_Saho_North>Anu amayimko tashshem abayah inkim maliyo</Target_Saho_North>
+      <Target_Saho_Central>Anu amayko tashshem abayah inkim maliyo</Target_Saho_Central>
+      <Target_Saho_South>Anu amayko tayshem abayah inkim maliyo</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00025</ID>
+      <Source_EN>I don't have to explain myself</Source_EN>
+      <Target_Saho_North>Anu inneh abem caddoysho yolle mitane</Target_Saho_North>
+      <Target_Saho_Central>Anu inneh abem caddooso yol mitane</Target_Saho_Central>
+      <Target_Saho_South>Anu inneh abem caddooso yol matane</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00026</ID>
+      <Source_EN>I don't like being around poor people</Source_EN>
+      <Target_Saho_North>Anu baaxentitti wakalelle gaxam mikixiniyo</Target_Saho_North>
+      <Target_Saho_Central>Anu baaxentitti wakalel akkem mikixiniyo</Target_Saho_Central>
+      <Target_Saho_South>Anu baaxentitti wakalel gaxam makixiniyo</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00027</ID>
+      <Source_EN>I fear getting married as I don’t want to get separated from you</Source_EN>
+      <Target_Saho_North>Anu kottako barhsimamko ciloh marcishimamko mashshiita</Target_Saho_North>
+      <Target_Saho_Central>Anu kooko barhsimamko ciloh marcishimamko mashshiita</Target_Saho_Central>
+      <Target_Saho_South>Anu kooko barhsimamko ciloh marcishimamko mayshiita</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00028</ID>
+      <Source_EN>I found that in the back of the closet</Source_EN>
+      <Target_Saho_North>Tamaa tiya armaadiyot caazadde geye</Target_Saho_North>
+      <Target_Saho_Central>Tamaa tiyä armaadiyot caazad geye</Target_Saho_Central>
+      <Target_Saho_South>Amaa tiyä armaadiyot caadad geye</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00029</ID>
+      <Source_EN>I hadn't intended to do that</Source_EN>
+      <Target_Saho_North>Amayim abo exeesebeh miiniyo</Target_Saho_North>
+      <Target_Saho_Central>Amaye abo exeesebeh miiniyo</Target_Saho_Central>
+      <Target_Saho_South>Amaye abo niyeh mananniyo</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00030</ID>
+      <Source_EN>I know it's inevitable</Source_EN>
+      <Target_Saho_North>Anu amayim miraacen kinam aarhige</Target_Saho_North>
+      <Target_Saho_Central>Anu amaye miraacen kinam aarhige</Target_Saho_Central>
+      <Target_Saho_South>Anu amaye maraacen kinam aarhige</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00031</ID>
+      <Source_EN>I must apologize to Jami</Source_EN>
+      <Target_Saho_North>Anu Jaami cafuuka kaa essero yolle tane</Target_Saho_North>
+      <Target_Saho_Central>Anu Jaami cafuuka kaa essero yol tane</Target_Saho_Central>
+      <Target_Saho_South>Anu Jaamik: Yolle mabbarhin akko arhxo yolle tane</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00032</ID>
+      <Source_EN>I pray five times per day</Source_EN>
+      <Target_Saho_North>Lellecidde koona gedda assilliye</Target_Saho_North>
+      <Target_Saho_Central>Lellecid koona ged assilliye</Target_Saho_Central>
+      <Target_Saho_South>Lellecid koona gul assilliye</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00033</ID>
+      <Source_EN>I still think we should have invited James to go with us</Source_EN>
+      <Target_Saho_North>Anu kaddih axeesebe gedda Jaymis noolih yadaw akah deecimneh nannaw nolle tine</Target_Saho_North>
+      <Target_Saho_Central>Anu kaddih Jaymis noolih yadaw akah deecimneh nannaw nol tinem kinni akkalem</Target_Saho_Central>
+      <Target_Saho_South>Anu kaddih axeesebe ged Jaymis noolih yadaw akah deecimneh nannaw nol tine</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00034</ID>
+      <Source_EN>I think I should tell Oliver where I've been</Source_EN>
+      <Target_Saho_North>Akkale gedda Oliiverih alle sugem akah warisho yolle tane</Target_Saho_North>
+      <Target_Saho_Central>Akkale ged Oliiverih awla sugem akah warisho yol tane</Target_Saho_Central>
+      <Target_Saho_South>Akkale ged Oliiverih al sugem akah warisho yol tane</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00035</ID>
+      <Source_EN>I was employee of the year for three years</Source_EN>
+      <Target_Saho_North>Anu agiro kin shaqhqhaalattohi ashshowa adooxa iggida beye</Target_Saho_North>
+      <Target_Saho_Central>Anu agiro kin shaqhqhaalaytohi ashshowa adooxa iggida beye</Target_Saho_Central>
+      <Target_Saho_South>Anu agiro kin shaqhqhaalaytohi ayshowa adooxa iggida beye</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00036</ID>
+      <Source_EN>I won't be able to finish doing this in a week</Source_EN>
+      <Target_Saho_North>Anu tayim abak baxuurolle bako mirhiica</Target_Saho_North>
+      <Target_Saho_Central>Anu taye abak liggidinal bako mirhiica</Target_Saho_Central>
+      <Target_Saho_South>Anu taye abak liggidinal abaysho marhiica</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00037</ID>
+      <Source_EN>I wonder what Tommy will do</Source_EN>
+      <Target_Saho_North>Toomi ayim abo kinam cibra yolle tekkeh tane</Target_Saho_North>
+      <Target_Saho_Central>Toomi aye abo kinam cibra yol tekkeh tane</Target_Saho_Central>
+      <Target_Saho_South>Toomi aye abo kinam sorheh aniyo</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00038</ID>
+      <Source_EN>If William does that, I will, too</Source_EN>
+      <Target_Saho_North>Wiliyaam amayim abemko, anu gantah abo kiyo</Target_Saho_North>
+      <Target_Saho_Central>Wiliyaam amaye abemko, anu gantah abo kiyo</Target_Saho_Central>
+      <Target_Saho_South>Wiliyaam amaye abemko, anu agantah abo kiyo</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00039</ID>
+      <Source_EN>It was obvious that Jack had told a lie</Source_EN>
+      <Target_Saho_North>Jaakah zirab akah warisheenim mudhdhuk kuuk yine</Target_Saho_North>
+      <Target_Saho_Central>Jaakah zirab warisheenim mudhdhuk kii yine</Target_Saho_Central>
+      <Target_Saho_South>Jaakah dirab akah warisheenim mudhdhuk kii yine</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00040</ID>
+      <Source_EN>James is going to be very thirsty after doing that</Source_EN>
+      <Target_Saho_North>Jeymis amayim abemko sarrah mangum bakhaaro kinni</Target_Saho_North>
+      <Target_Saho_Central>Jeymis amaye abemko lakal mangum bakhaaro kinni</Target_Saho_Central>
+      <Target_Saho_South>Jeymis amaye abemko lakal mangum baqhaaro kinni</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00041</ID>
+      <Source_EN>My most beautiful mom, I can never be like you</Source_EN>
+      <Target_Saho_North>Yi casa ina (casiina), anu kotta balih akko caduruh mirhiica</Target_Saho_North>
+      <Target_Saho_Central>Yi casa ina (casiina), anu koyya balih akko caduruh marhiica</Target_Saho_Central>
+      <Target_Saho_South>Yi casa ina (casiina), anu sina balih akko caduruh marhiica</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00042</ID>
+      <Source_EN>No one except Jacob knows what really happened</Source_EN>
+      <Target_Saho_North>Yacqoobko bextih rummah ayim tekkem yaarhigeti miyane</Target_Saho_North>
+      <Target_Saho_Central>Yacqoobko bextih rummah aye tekkem yaarhigeti miyane</Target_Saho_Central>
+      <Target_Saho_South>Yacqoobko sarrah rummah aye tekkem yaarhigeti miyane</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00043</ID>
+      <Source_EN>No one in my family can do that</Source_EN>
+      <Target_Saho_North>Yi xawazadde tamayim walaa inketti abo mirhiica</Target_Saho_North>
+      <Target_Saho_Central>Yi xawazad tamaye walaa inketti abo mirhiica</Target_Saho_Central>
+      <Target_Saho_South>Yi xawazad tamaye walaa inketti abo marhiica</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00044</ID>
+      <Source_EN>Oliver didn't doubt there would be a lot of people there</Source_EN>
+      <Target_Saho_North>Oliiver amalle mango xiyaw sugoona kuuk yiniinimih shakke luuk miyine</Target_Saho_North>
+      <Target_Saho_Central>Oliiver amal mango xiyaw sugoona kii yiniinimih shakke lii miyine</Target_Saho_Central>
+      <Target_Saho_South>Oliiver amal mango xiyaa sugoona kii yiniinimih shakke lii mananna</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00045</ID>
+      <Source_EN>Oliver doesn't think Mary is saying what she really thinks</Source_EN>
+      <Target_Saho_North>Maryam rummah takkalem arhxuk tanem Oliiver miyakkale</Target_Saho_North>
+      <Target_Saho_Central>Maryam rummah takkalem arhxii tanem Oliiver miyakkale</Target_Saho_Central>
+      <Target_Saho_South>Maryam rummah takkalem ayi tanem Oliiver mayakkale</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00046</ID>
+      <Source_EN>Please let me know about it</Source_EN>
+      <Target_Saho_North>Ku beezza, amayimhi sabbatah yi iyshidhdhig</Target_Saho_North>
+      <Target_Saho_Central>Ku beezza, amayehi sabbatah yi iyshidhdhig</Target_Saho_Central>
+      <Target_Saho_South>Ku beeda, amayehi sabbatah yi iyshidhdhig</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00047</ID>
+      <Source_EN>She lied to me</Source_EN>
+      <Target_Saho_North>Ishi yolle zirabbitte</Target_Saho_North>
+      <Target_Saho_Central>Ishe yol zirabbitte</Target_Saho_Central>
+      <Target_Saho_South>Ishe yol dirabbitte</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00048</ID>
+      <Source_EN>She told him everything that happened when her husband came</Source_EN>
+      <Target_Saho_North>Tee bacli yemeete gedda tekkem inkoh akah warishshe</Target_Saho_North>
+      <Target_Saho_Central>Tee tiyawti yemeete ged tekkem inkoh akah warishshe</Target_Saho_Central>
+      <Target_Saho_South>Tee xiyawti yemeete gedda tekkem inkoh akah warishshe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00049</ID>
+      <Source_EN>She was eating meat</Source_EN>
+      <Target_Saho_North>Ishi xazo beetak tine</Target_Saho_North>
+      <Target_Saho_Central>Ishi xazo beetaa tine</Target_Saho_Central>
+      <Target_Saho_South>Ishi xado beetaa tine</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00050</ID>
+      <Source_EN>Someone threw a rock at her</Source_EN>
+      <Target_Saho_North>Wuliti teyal dhaa alle cide</Target_Saho_North>
+      <Target_Saho_Central>Uliti teyal dhaa el cide</Target_Saho_Central>
+      <Target_Saho_South>Uliti teyyal dhaa el cide</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00051</ID>
+      <Source_EN>Tommy doesn't think Lucy really could do that, does he?</Source_EN>
+      <Target_Saho_North>Toomi, Luusi amayim abto dhictam miyakkale, makini?</Target_Saho_North>
+      <Target_Saho_Central>Toomi, Luusi amaye abto dhictam miyakkale, makiho?</Target_Saho_Central>
+      <Target_Saho_South>Toomi, Luusi amaye abto dhictam mayakkale, makaho?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00052</ID>
+      <Source_EN>What are you doing?</Source_EN>
+      <Target_Saho_North>Atu ayim abak tanito?</Target_Saho_North>
+      <Target_Saho_Central>Atin aye abaa taniini?</Target_Saho_Central>
+      <Target_Saho_South>Atu aa cale abaa tanito?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00053</ID>
+      <Source_EN>What happened?</Source_EN>
+      <Target_Saho_North>Ayim tekke?</Target_Saho_North>
+      <Target_Saho_Central>Aye tekke?</Target_Saho_Central>
+      <Target_Saho_South>Aa cale tekke?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00054</ID>
+      <Source_EN>What is her name?</Source_EN>
+      <Target_Saho_North>Tee migac miyatto kinni?</Target_Saho_North>
+      <Target_Saho_Central>Tee migac miyayto kinni?</Target_Saho_Central>
+      <Target_Saho_South>Tee migac iyyayto kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00055</ID>
+      <Source_EN>What is his name?</Source_EN>
+      <Target_Saho_North>Kaa migac miyatto kinni?</Target_Saho_North>
+      <Target_Saho_Central>Kaa migac miyayto kinni?</Target_Saho_Central>
+      <Target_Saho_South>Kaa migac iyyayto kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00056</ID>
+      <Source_EN>What is it?</Source_EN>
+      <Target_Saho_North>Ayim kinni?</Target_Saho_North>
+      <Target_Saho_Central>Aye kinni?</Target_Saho_Central>
+      <Target_Saho_South>aa cale kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00057</ID>
+      <Source_EN>What is love?</Source_EN>
+      <Target_Saho_North>Kaxani aymotta kinni?</Target_Saho_North>
+      <Target_Saho_Central>Kaxani aye kinni?</Target_Saho_Central>
+      <Target_Saho_South>Kaxani aa cale kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00058</ID>
+      <Source_EN>What is your name?</Source_EN>
+      <Target_Saho_North>Miyatto ku migac?</Target_Saho_North>
+      <Target_Saho_Central>Ku migac miyaytö kinni?</Target_Saho_Central>
+      <Target_Saho_South>Ku migac iyyayto kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00059</ID>
+      <Source_EN>When you are here, I have nothing to fear! I love you, Dad</Source_EN>
+      <Target_Saho_North>Atu talle tinniyemko, anu akko mashshiitam maliyo! Anu ku kixiniyo, abba</Target_Saho_North>
+      <Target_Saho_Central>Atu tal tinniyemko, anu ak mashshiitam maliyo! Anu ku kixiniyo, abba</Target_Saho_Central>
+      <Target_Saho_South>Atu tal tinniyemko, anu ak mayshiitam maliyo! Anu ku kixiniyo, abba</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00060</ID>
+      <Source_EN>Where can I mail these letters?</Source_EN>
+      <Target_Saho_North>Ta fartot awlalle dhirhiyo kiyo?</Target_Saho_North>
+      <Target_Saho_Central>Awlal kinni ta risaalal dhirhiyo liyom?</Target_Saho_Central>
+      <Target_Saho_South>Ta waraqhut awlal dhirhiyo kiyo?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00061</ID>
+      <Source_EN>Where did you buy all these?</Source_EN>
+      <Target_Saho_North>Tayim inkoh awlaako dhamte?</Target_Saho_North>
+      <Target_Saho_Central>Akkeeko dhamte taye inkoh?</Target_Saho_Central>
+      <Target_Saho_South>Taye inkoh akkeeko dhamte?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00062</ID>
+      <Source_EN>Where have you been yesterday?</Source_EN>
+      <Target_Saho_North>Kumal awla tiniini?</Target_Saho_North>
+      <Target_Saho_Central>Kumal awla tinito?</Target_Saho_Central>
+      <Target_Saho_South>Kumal al tinito?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00063</ID>
+      <Source_EN>Where is your book?</Source_EN>
+      <Target_Saho_North>Ku kitaab alle yane?</Target_Saho_North>
+      <Target_Saho_Central>Ku kitaab awla yane?</Target_Saho_Central>
+      <Target_Saho_South>Ku kitaab al yane?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00064</ID>
+      <Source_EN>Where will you be today?</Source_EN>
+      <Target_Saho_North>Atu kaafa alle asso kito?</Target_Saho_North>
+      <Target_Saho_Central>Atu kaafa awla asso kito?</Target_Saho_Central>
+      <Target_Saho_South>Atu kaafa al asso kito?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00065</ID>
+      <Source_EN>Who are you?</Source_EN>
+      <Target_Saho_North>Atu miyatto kito?</Target_Saho_North>
+      <Target_Saho_Central>Atin miya kitiini?</Target_Saho_Central>
+      <Target_Saho_South>Atu  iyyaytö kito?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00066</ID>
+      <Source_EN>Who called you?</Source_EN>
+      <Target_Saho_North>Mii koh deecime?</Target_Saho_North>
+      <Target_Saho_Central>Miyayti koh deecime?</Target_Saho_Central>
+      <Target_Saho_South>Iyyi sinah deecime?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00067</ID>
+      <Source_EN>Who did it?</Source_EN>
+      <Target_Saho_North>Miyatti abe?</Target_Saho_North>
+      <Target_Saho_Central>Miyaytö abte?</Target_Saho_Central>
+      <Target_Saho_South>Iyyaytö abte?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00068</ID>
+      <Source_EN>Who do you like/love?</Source_EN>
+      <Target_Saho_North>Atu miyatto kixinto?</Target_Saho_North>
+      <Target_Saho_Central>Atin miya kixintiini?</Target_Saho_Central>
+      <Target_Saho_South>Atu iyya kixinto?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00069</ID>
+      <Source_EN>Who do you love the most in your family?</Source_EN>
+      <Target_Saho_North>Atu ishi xawazadde ummanimko mangum miyatto kixinto?</Target_Saho_North>
+      <Target_Saho_Central>Atu ishi xawazad ummanimko mangum miyayto kixinto?</Target_Saho_Central>
+      <Target_Saho_South>Atin sinni xawazad ummanimko mangum iyyayto kixiniini?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00070</ID>
+      <Source_EN>Who do you usually play golf with?</Source_EN>
+      <Target_Saho_North>Atu mangih goluf miyattoolih digirta?</Target_Saho_North>
+      <Target_Saho_Central>Atu mangih goluf miyaalih digirta?</Target_Saho_Central>
+      <Target_Saho_South>Atu mangih goluf iyyaalih digirta?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00071</ID>
+      <Source_EN>Who is at the door?</Source_EN>
+      <Target_Saho_North>Carafalle miyatti yane?</Target_Saho_North>
+      <Target_Saho_Central>Carafal miyayti yane?</Target_Saho_Central>
+      <Target_Saho_South>Carafal iyyi yane?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00072</ID>
+      <Source_EN>Who is coming over?</Source_EN>
+      <Target_Saho_North>Miyatti amiituk yane?</Target_Saho_North>
+      <Target_Saho_Central>Mii amiitii yane?</Target_Saho_Central>
+      <Target_Saho_South>Iyyaytö amiitii tane?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00073</ID>
+      <Source_EN>Who is he?</Source_EN>
+      <Target_Saho_North>Usuk miyatto kinni?</Target_Saho_North>
+      <Target_Saho_Central>Usuk miyayto kinni?</Target_Saho_Central>
+      <Target_Saho_South>Usuk iyyayto kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00074</ID>
+      <Source_EN>Who is she?</Source_EN>
+      <Target_Saho_North>Ishi miyattö kinni?</Target_Saho_North>
+      <Target_Saho_Central>Ishi miyaytö kinni?</Target_Saho_Central>
+      <Target_Saho_South>Ishi iyyaytö kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00075</ID>
+      <Source_EN>Who is stronger?</Source_EN>
+      <Target_Saho_North>Miyattö quwwa le?</Target_Saho_North>
+      <Target_Saho_Central>Miyaytö quwwa le?</Target_Saho_Central>
+      <Target_Saho_South>Iyyi quwwa le?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00076</ID>
+      <Source_EN>Who is the president of Sudan?</Source_EN>
+      <Target_Saho_North>Soodan amotti miyatto kinni?</Target_Saho_North>
+      <Target_Saho_Central>Soodan amoyti miyayto kinni?</Target_Saho_Central>
+      <Target_Saho_South>Soodan amoyti iyyayto kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00077</ID>
+      <Source_EN>Who is this old woman?</Source_EN>
+      <Target_Saho_North>Ta naba numa miyattö?</Target_Saho_North>
+      <Target_Saho_Central>Ta naba numa miyaytö?</Target_Saho_Central>
+      <Target_Saho_South>Ta naba numa iyyaytö kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00078</ID>
+      <Source_EN>Who is your favourite singer?</Source_EN>
+      <Target_Saho_North>Atin kixintin margadisheeni miyatto kinni?</Target_Saho_North>
+      <Target_Saho_Central>Atu kixinto margadisheeni miyayto kinni?</Target_Saho_Central>
+      <Target_Saho_South>Atu kixinto margadisheeni iyyayto kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00079</ID>
+      <Source_EN>Who knows?</Source_EN>
+      <Target_Saho_North>Miyatti yaarhige?</Target_Saho_North>
+      <Target_Saho_Central>Mii yaarhige?</Target_Saho_Central>
+      <Target_Saho_South>Iyyi yaarhige?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00080</ID>
+      <Source_EN>Who says, A mother and son can’t be the best friends?” I still don’t feel relax till I tell you everything. Your touch and words are like medicine. I love you mommy</Source_EN>
+      <Target_Saho_North>Miyatto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku zirhi yottah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)</Target_Saho_North>
+      <Target_Saho_Central>Miyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)</Target_Saho_Central>
+      <Target_Saho_South>Iyyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona marhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00081</ID>
+      <Source_EN>Who went with you yesterday?</Source_EN>
+      <Target_Saho_North>Kumal miyyi sinlih yedee?</Target_Saho_North>
+      <Target_Saho_Central>Kumal miyayti sinlih tedee?</Target_Saho_Central>
+      <Target_Saho_South>Kumal iyyi koolih yedee?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00082</ID>
+      <Source_EN>Who won the game?</Source_EN>
+      <Target_Saho_North>Digirille mii yusluge?</Target_Saho_North>
+      <Target_Saho_Central>Digiril miyayti yusluge?</Target_Saho_Central>
+      <Target_Saho_South>Digiril iyyi yusluge?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00083</ID>
+      <Source_EN>Who wrote this book?</Source_EN>
+      <Target_Saho_North>Ta kitaab mii yuktube?</Target_Saho_North>
+      <Target_Saho_Central>Ta kitaab miyayti yuktube?</Target_Saho_Central>
+      <Target_Saho_South>Ta kitaab iyyi yuktube?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00084</ID>
+      <Source_EN>Whose bag is this?</Source_EN>
+      <Target_Saho_North>Ta shantha miyatti tiyä kinni?</Target_Saho_North>
+      <Target_Saho_Central>Ta shantha mii tiyä kinni?</Target_Saho_Central>
+      <Target_Saho_South>Ta shantha iyyin tiyä kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00085</ID>
+      <Source_EN>Whose car is this?</Source_EN>
+      <Target_Saho_North>Ta makiina mii tiyä kinni?</Target_Saho_North>
+      <Target_Saho_Central>Ta makiina miyayti tiyä kinni?</Target_Saho_Central>
+      <Target_Saho_South>Ta makiina iyyin tiya kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00086</ID>
+      <Source_EN>Whose child that has cough?</Source_EN>
+      <Target_Saho_North>Ufuca lem miyatti cindhooka kinni?</Target_Saho_North>
+      <Target_Saho_Central>Ufuca lem mii cindhooka kinni?</Target_Saho_Central>
+      <Target_Saho_South>Ufuca lem iyyin cindhooka kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00087</ID>
+      <Source_EN>Why are you laughing?</Source_EN>
+      <Target_Saho_North>Atu ayimih aasulituk tanito?</Target_Saho_North>
+      <Target_Saho_Central>Atu ayeh aasulii tanito?</Target_Saho_Central>
+      <Target_Saho_South>Atin ayeh aasulii taniini?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00088</ID>
+      <Source_EN>Why are you so happy?</Source_EN>
+      <Target_Saho_North>Atu ayimih xedentak tanito?</Target_Saho_North>
+      <Target_Saho_Central>Atu ayeh xedenaa tanito?</Target_Saho_Central>
+      <Target_Saho_South>Atin ayeh xedenaa taniini?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00089</ID>
+      <Source_EN>Will Margaret really be doing that by herself?</Source_EN>
+      <Target_Saho_North>Rummah Margaret amayim inkoh isheh abto kinni?</Target_Saho_North>
+      <Target_Saho_Central>Rummah Margaret amaye inkoh isheh abto kinni?</Target_Saho_Central>
+      <Target_Saho_South>Rummah Margaret tamaye inkoh isheh abto kinni?</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00090</ID>
+      <Source_EN>You heard a noise behind you</Source_EN>
+      <Target_Saho_North>Atu ishi caazadde andhax toobbe</Target_Saho_North>
+      <Target_Saho_Central>Atu ishi caazad andhax toobbe</Target_Saho_Central>
+      <Target_Saho_South>Atu ishi caadad andhax toobbe</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00091</ID>
+      <Source_EN>You're not going in there</Source_EN>
+      <Target_Saho_North>Atin amalle aduuk mitaniini</Target_Saho_North>
+      <Target_Saho_Central>Atu amal adii mitanito</Target_Saho_Central>
+      <Target_Saho_South>Atu amal adii matane</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00092</ID>
+      <Source_EN>love creates hope even in the hardest times</Source_EN>
+      <Target_Saho_North>kaxani uma waqhtedde gantah cag xiyaah yakke</Target_Saho_North>
+      <Target_Saho_Central>kaxani uma uddurud gantah cag xiyaah yakke</Target_Saho_Central>
+      <Target_Saho_South>kaxani uma gul gantah niya xiyaah yakke</Target_Saho_South>
+   </Record>
+   <Record>
+      <ID>SAM-GTR-00093</ID>
+      <Source_EN>mercy brings us closer to each other</Source_EN>
+      <Target_Saho_North>Raxmatta sittiyalle kab ni ishsha</Target_Saho_North>
+      <Target_Saho_Central>Raxmatta sittiyal kab ni ishsha</Target_Saho_Central>
+      <Target_Saho_South>Raxmatta sittiyal kab ni isissa</Target_Saho_South>
+   </Record>
+</SaahoDataset>

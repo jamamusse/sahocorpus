@@ -1,0 +1,653 @@
+[
+    {
+        "ID": "SAM-GTR-00001",
+        "Source_EN": "Adam did that, even though he didn't need to",
+        "Target_Saho_North": "Adam abo kaalle mitine haaki, amayim abe",
+        "Target_Saho_Central": "Adam abo kaal mitine haaki, amaye abe",
+        "Target_Saho_South": "Adam abo kaal mitine hayki, amaye abe"
+    },
+    {
+        "ID": "SAM-GTR-00002",
+        "Source_EN": "Adam has never done that by himself",
+        "Target_Saho_North": "Adam amayim isheh abeh miyaarhige",
+        "Target_Saho_Central": "Adam amaye isheh abeh miyaarhige",
+        "Target_Saho_South": "Adam amayim isheh abeh mayaarhige"
+    },
+    {
+        "ID": "SAM-GTR-00003",
+        "Source_EN": "Alex said Monica knew that he might have to do that several more times",
+        "Target_Saho_North": "Aleekis Monika usuk amayim mangole gedda abo kinam teerhegeh tinem warishe",
+        "Target_Saho_Central": "Aleekis Monika usuk amayim mangole ged abo kinam teerhegeh tinem warishe",
+        "Target_Saho_South": "Aleekis Monika usuk amayim mangole gul abo kinam teerhegeh tinem warishe"
+    },
+    {
+        "ID": "SAM-GTR-00004",
+        "Source_EN": "Although Ibero-America is a larger language region, American English carries greater influence in the current world",
+        "Target_Saho_North": "Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamalle naba tabso leya",
+        "Target_Saho_Central": "Ibero-Ameerika naba luqhahi zooba tekkemih, Ameerikaati Ingiliiz, kaafit caalamal naba wahas leya",
+        "Target_Saho_South": "Ibero-Ameerika naba luqhat zooba takko kiyah, Ameerikat Ingiliiz, kaafit caalamalle naba wahas yabbirhe."
+    },
+    {
+        "ID": "SAM-GTR-00005",
+        "Source_EN": "An office building, with 22 stories above ground and 2 below, is under construction",
+        "Target_Saho_North": "Baarhot bukalle 22, baarhot addadde lel 2 daraja le maktabti camaara ginniimak tane",
+        "Target_Saho_Central": "Wuli baarhot bukalle 22, baarhok addad lel 2 daraj le maktabti camaara siraaximaa tane",
+        "Target_Saho_South": "Wuli maktabti gino, 22 baarhot bukahi mackanya kee 2 baarhot addahi mackanlih dhishodde geytimta."
+    },
+    {
+        "ID": "SAM-GTR-00006",
+        "Source_EN": "Are you wearing lipstick?",
+        "Target_Saho_North": "Atu wagaballe hayaanam hashshitteh tanito?",
+        "Target_Saho_Central": "Atu wagabal hayaanam hashshitteh tanito?",
+        "Target_Saho_South": "Atu wagabal hayaanam hayshitteh tanito?"
+    },
+    {
+        "ID": "SAM-GTR-00007",
+        "Source_EN": "Beat the egg before putting it in the soup",
+        "Target_Saho_North": "Amaa lalimta tekeridde haytam warah zib",
+        "Target_Saho_Central": "Amaa lalimta tekerid haytamko basol zib",
+        "Target_Saho_South": "Amaa lalimta terekeridde haytam warah utuk."
+    },
+    {
+        "ID": "SAM-GTR-00008",
+        "Source_EN": "Both Alex and Alice like to play golf",
+        "Target_Saho_North": "Aleekis kee Aliis lammuk goluf digiraanam kixinon",
+        "Target_Saho_Central": "Aleekis kee Aliis lammik goluf digiraanam kixinon",
+        "Target_Saho_South": "Aleekis kee Aliis lammii goluf digiraanam kixinon"
+    },
+    {
+        "ID": "SAM-GTR-00009",
+        "Source_EN": "But she said, We'd rather have Victory because we'll succeed in everything we do.”",
+        "Target_Saho_North": "Ishe laakin: Nanu ummanimille nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe",
+        "Target_Saho_Central": "Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tashshe” terhxe",
+        "Target_Saho_South": "Ishe laakin: Nanu ummanimil nansaro kinomhi sabbatah sariigalla geynam noh tayshe” terhxe"
+    },
+    {
+        "ID": "SAM-GTR-00010",
+        "Source_EN": "By and by, the bitter north wind began to blow",
+        "Target_Saho_North": "Amalle anuk, dhacuma waarerta le qilbat xaaxatti dhago erherhishe",
+        "Target_Saho_Central": "Mangum sugekkah, dhacuma qilbat xaaxayti yamrawwaxo erherhishe",
+        "Target_Saho_South": "Dherh waqhte sugekkah, sirii qilbat xaaxaa xaaxaysho erherhishe."
+    },
+    {
+        "ID": "SAM-GTR-00011",
+        "Source_EN": "Daddy, thank you for raising me with such care",
+        "Target_Saho_North": "Abba, ta gina le anoonoolih yi carhishshemih, gaab yoh isho!",
+        "Target_Saho_Central": "Abba, ta ginah  anoonoolih yi teynebemih, gaab yoh isho",
+        "Target_Saho_South": "Abba, ta ginah anoonoolih yi carissemih, gaab yoh isoy!"
+    },
+    {
+        "ID": "SAM-GTR-00012",
+        "Source_EN": "Dogs can't talk, but it's almost as if the puppy's eyes said, No, I don't have a home.",
+        "Target_Saho_North": "Kaara zidhdhiimoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida",
+        "Target_Saho_Central": "Kaara waanishoona mirhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida",
+        "Target_Saho_South": "Kaara waanishoona marhiicaana, laakin ten intit: Maale, care malino yarhxemih iggida"
+    },
+    {
+        "ID": "SAM-GTR-00013",
+        "Source_EN": "Don't scream, or you're dead",
+        "Target_Saho_North": "Mizeerin, hido rabteh tanito",
+        "Target_Saho_Central": "Mizeerin, ohoydo rabteh tanito",
+        "Target_Saho_South": "Madeerin, ohoydo rabteh tanito"
+    },
+    {
+        "ID": "SAM-GTR-00014",
+        "Source_EN": "Don't you want to know what happened to Joe?",
+        "Target_Saho_North": "Joo ayim kaa teseedefem taarhago mifadhdha?",
+        "Target_Saho_Central": "Joo aye geyem taarhago mifadhdha?",
+        "Target_Saho_South": "Joo aye kaa teseedefem taarhago mafadhdha"
+    },
+    {
+        "ID": "SAM-GTR-00015",
+        "Source_EN": "George and Olivia said they didn't want to sit with us",
+        "Target_Saho_North": "Jorjo kee Oliiviya nottaalih defeyoona mifarhaanam warishen",
+        "Target_Saho_Central": "Jorjo kee Oliiviya noolih defeyoona mifarhaanam warishen",
+        "Target_Saho_South": "Jorjo kee Oliiviya noolih defeyoona mafarhaanam warishen"
+    },
+    {
+        "ID": "SAM-GTR-00016",
+        "Source_EN": "George said that he didn't have a plan",
+        "Target_Saho_North": "Jorjo xagara luuk miyinem warishe",
+        "Target_Saho_Central": "Jorjo maxaggaro lii miyinem warishe",
+        "Target_Saho_South": "Jorjo maxaggaro lii manannam warishe"
+    },
+    {
+        "ID": "SAM-GTR-00017",
+        "Source_EN": "George said that he doesn't think that Carmen really likes doing that very much",
+        "Target_Saho_North": "Kaarmen rummah amayim abaanam mikixinamah alle iggidam Jorjo warishe",
+        "Target_Saho_Central": "Kaarmen rummah amaye abaanam mikixinamah el iggidam Jorjo warishe",
+        "Target_Saho_South": "Kaarmen rummah amaye abaanam makixinamah el iggidam Jorjo warishe"
+    },
+    {
+        "ID": "SAM-GTR-00018",
+        "Source_EN": "Harry said that he wasn't planning to go swimming tomorrow",
+        "Target_Saho_North": "Hari beera zabboh yadaw axiggiruk misuginnam warishe",
+        "Target_Saho_Central": "Hari beera igiiloh yadaw axiggirii misuginnam warishe",
+        "Target_Saho_South": "Hari beera igiiloh yadaw axiggirii manannam warishe"
+    },
+    {
+        "ID": "SAM-GTR-00019",
+        "Source_EN": "He has no heart at all",
+        "Target_Saho_North": "Usuk inkinnah naxrurta male",
+        "Target_Saho_Central": "Usuk inkinnah raxma male",
+        "Target_Saho_South": "Usuk inkinnah Afcaado male"
+    },
+    {
+        "ID": "SAM-GTR-00020",
+        "Source_EN": "He never let her feel that she doesn't have her mother",
+        "Target_Saho_North": "Ishi ina malem usuk caduruh adde miyashshaabbe",
+        "Target_Saho_Central": "Ishi ina malem usuk caduruh ed miyashshaabbe",
+        "Target_Saho_South": "Ishi ina malem usuk caduruh ed mayayshaabbe"
+    },
+    {
+        "ID": "SAM-GTR-00021",
+        "Source_EN": "He's not worthy of you",
+        "Target_Saho_North": "Usuk atu akah missil tiya maki",
+        "Target_Saho_Central": "Usuk koyyah mimissila",
+        "Target_Saho_South": "Usuk koyyah meeda"
+    },
+    {
+        "ID": "SAM-GTR-00022",
+        "Source_EN": "How many times do you pray in the (24hrs) day?",
+        "Target_Saho_North": "Atu lellecidde (24sa) ayidhdhale gedda tassilliye?",
+        "Target_Saho_Central": "Atu lellecid (24sa) ayidhdhale gedda tassilliye?",
+        "Target_Saho_South": "Atin lellecid (24sa) ayidhdhale gul tassilliini?"
+    },
+    {
+        "ID": "SAM-GTR-00023",
+        "Source_EN": "I am lighting the fire",
+        "Target_Saho_North": "Anu gira bololishak aniyo",
+        "Target_Saho_Central": "Anu gira bololishaa aniyo",
+        "Target_Saho_South": "Anu gira urusaa aniyo"
+    },
+    {
+        "ID": "SAM-GTR-00024",
+        "Source_EN": "I don't have anything better to do",
+        "Target_Saho_North": "Anu amayimko tashshem abayah inkim maliyo",
+        "Target_Saho_Central": "Anu amayko tashshem abayah inkim maliyo",
+        "Target_Saho_South": "Anu amayko tayshem abayah inkim maliyo"
+    },
+    {
+        "ID": "SAM-GTR-00025",
+        "Source_EN": "I don't have to explain myself",
+        "Target_Saho_North": "Anu inneh abem caddoysho yolle mitane",
+        "Target_Saho_Central": "Anu inneh abem caddooso yol mitane",
+        "Target_Saho_South": "Anu inneh abem caddooso yol matane"
+    },
+    {
+        "ID": "SAM-GTR-00026",
+        "Source_EN": "I don't like being around poor people",
+        "Target_Saho_North": "Anu baaxentitti wakalelle gaxam mikixiniyo",
+        "Target_Saho_Central": "Anu baaxentitti wakalel akkem mikixiniyo",
+        "Target_Saho_South": "Anu baaxentitti wakalel gaxam makixiniyo"
+    },
+    {
+        "ID": "SAM-GTR-00027",
+        "Source_EN": "I fear getting married as I don’t want to get separated from you",
+        "Target_Saho_North": "Anu kottako barhsimamko ciloh marcishimamko mashshiita",
+        "Target_Saho_Central": "Anu kooko barhsimamko ciloh marcishimamko mashshiita",
+        "Target_Saho_South": "Anu kooko barhsimamko ciloh marcishimamko mayshiita"
+    },
+    {
+        "ID": "SAM-GTR-00028",
+        "Source_EN": "I found that in the back of the closet",
+        "Target_Saho_North": "Tamaa tiya armaadiyot caazadde geye",
+        "Target_Saho_Central": "Tamaa tiyä armaadiyot caazad geye",
+        "Target_Saho_South": "Amaa tiyä armaadiyot caadad geye"
+    },
+    {
+        "ID": "SAM-GTR-00029",
+        "Source_EN": "I hadn't intended to do that",
+        "Target_Saho_North": "Amayim abo exeesebeh miiniyo",
+        "Target_Saho_Central": "Amaye abo exeesebeh miiniyo",
+        "Target_Saho_South": "Amaye abo niyeh mananniyo"
+    },
+    {
+        "ID": "SAM-GTR-00030",
+        "Source_EN": "I know it's inevitable",
+        "Target_Saho_North": "Anu amayim miraacen kinam aarhige",
+        "Target_Saho_Central": "Anu amaye miraacen kinam aarhige",
+        "Target_Saho_South": "Anu amaye maraacen kinam aarhige"
+    },
+    {
+        "ID": "SAM-GTR-00031",
+        "Source_EN": "I must apologize to Jami",
+        "Target_Saho_North": "Anu Jaami cafuuka kaa essero yolle tane",
+        "Target_Saho_Central": "Anu Jaami cafuuka kaa essero yol tane",
+        "Target_Saho_South": "Anu Jaamik: Yolle mabbarhin akko arhxo yolle tane"
+    },
+    {
+        "ID": "SAM-GTR-00032",
+        "Source_EN": "I pray five times per day",
+        "Target_Saho_North": "Lellecidde koona gedda assilliye",
+        "Target_Saho_Central": "Lellecid koona ged assilliye",
+        "Target_Saho_South": "Lellecid koona gul assilliye"
+    },
+    {
+        "ID": "SAM-GTR-00033",
+        "Source_EN": "I still think we should have invited James to go with us",
+        "Target_Saho_North": "Anu kaddih axeesebe gedda Jaymis noolih yadaw akah deecimneh nannaw nolle tine",
+        "Target_Saho_Central": "Anu kaddih Jaymis noolih yadaw akah deecimneh nannaw nol tinem kinni akkalem",
+        "Target_Saho_South": "Anu kaddih axeesebe ged Jaymis noolih yadaw akah deecimneh nannaw nol tine"
+    },
+    {
+        "ID": "SAM-GTR-00034",
+        "Source_EN": "I think I should tell Oliver where I've been",
+        "Target_Saho_North": "Akkale gedda Oliiverih alle sugem akah warisho yolle tane",
+        "Target_Saho_Central": "Akkale ged Oliiverih awla sugem akah warisho yol tane",
+        "Target_Saho_South": "Akkale ged Oliiverih al sugem akah warisho yol tane"
+    },
+    {
+        "ID": "SAM-GTR-00035",
+        "Source_EN": "I was employee of the year for three years",
+        "Target_Saho_North": "Anu agiro kin shaqhqhaalattohi ashshowa adooxa iggida beye",
+        "Target_Saho_Central": "Anu agiro kin shaqhqhaalaytohi ashshowa adooxa iggida beye",
+        "Target_Saho_South": "Anu agiro kin shaqhqhaalaytohi ayshowa adooxa iggida beye"
+    },
+    {
+        "ID": "SAM-GTR-00036",
+        "Source_EN": "I won't be able to finish doing this in a week",
+        "Target_Saho_North": "Anu tayim abak baxuurolle bako mirhiica",
+        "Target_Saho_Central": "Anu taye abak liggidinal bako mirhiica",
+        "Target_Saho_South": "Anu taye abak liggidinal abaysho marhiica"
+    },
+    {
+        "ID": "SAM-GTR-00037",
+        "Source_EN": "I wonder what Tommy will do",
+        "Target_Saho_North": "Toomi ayim abo kinam cibra yolle tekkeh tane",
+        "Target_Saho_Central": "Toomi aye abo kinam cibra yol tekkeh tane",
+        "Target_Saho_South": "Toomi aye abo kinam sorheh aniyo"
+    },
+    {
+        "ID": "SAM-GTR-00038",
+        "Source_EN": "If William does that, I will, too",
+        "Target_Saho_North": "Wiliyaam amayim abemko, anu gantah abo kiyo",
+        "Target_Saho_Central": "Wiliyaam amaye abemko, anu gantah abo kiyo",
+        "Target_Saho_South": "Wiliyaam amaye abemko, anu agantah abo kiyo"
+    },
+    {
+        "ID": "SAM-GTR-00039",
+        "Source_EN": "It was obvious that Jack had told a lie",
+        "Target_Saho_North": "Jaakah zirab akah warisheenim mudhdhuk kuuk yine",
+        "Target_Saho_Central": "Jaakah zirab warisheenim mudhdhuk kii yine",
+        "Target_Saho_South": "Jaakah dirab akah warisheenim mudhdhuk kii yine"
+    },
+    {
+        "ID": "SAM-GTR-00040",
+        "Source_EN": "James is going to be very thirsty after doing that",
+        "Target_Saho_North": "Jeymis amayim abemko sarrah mangum bakhaaro kinni",
+        "Target_Saho_Central": "Jeymis amaye abemko lakal mangum bakhaaro kinni",
+        "Target_Saho_South": "Jeymis amaye abemko lakal mangum baqhaaro kinni"
+    },
+    {
+        "ID": "SAM-GTR-00041",
+        "Source_EN": "My most beautiful mom, I can never be like you",
+        "Target_Saho_North": "Yi casa ina (casiina), anu kotta balih akko caduruh mirhiica",
+        "Target_Saho_Central": "Yi casa ina (casiina), anu koyya balih akko caduruh marhiica",
+        "Target_Saho_South": "Yi casa ina (casiina), anu sina balih akko caduruh marhiica"
+    },
+    {
+        "ID": "SAM-GTR-00042",
+        "Source_EN": "No one except Jacob knows what really happened",
+        "Target_Saho_North": "Yacqoobko bextih rummah ayim tekkem yaarhigeti miyane",
+        "Target_Saho_Central": "Yacqoobko bextih rummah aye tekkem yaarhigeti miyane",
+        "Target_Saho_South": "Yacqoobko sarrah rummah aye tekkem yaarhigeti miyane"
+    },
+    {
+        "ID": "SAM-GTR-00043",
+        "Source_EN": "No one in my family can do that",
+        "Target_Saho_North": "Yi xawazadde tamayim walaa inketti abo mirhiica",
+        "Target_Saho_Central": "Yi xawazad tamaye walaa inketti abo mirhiica",
+        "Target_Saho_South": "Yi xawazad tamaye walaa inketti abo marhiica"
+    },
+    {
+        "ID": "SAM-GTR-00044",
+        "Source_EN": "Oliver didn't doubt there would be a lot of people there",
+        "Target_Saho_North": "Oliiver amalle mango xiyaw sugoona kuuk yiniinimih shakke luuk miyine",
+        "Target_Saho_Central": "Oliiver amal mango xiyaw sugoona kii yiniinimih shakke lii miyine",
+        "Target_Saho_South": "Oliiver amal mango xiyaa sugoona kii yiniinimih shakke lii mananna"
+    },
+    {
+        "ID": "SAM-GTR-00045",
+        "Source_EN": "Oliver doesn't think Mary is saying what she really thinks",
+        "Target_Saho_North": "Maryam rummah takkalem arhxuk tanem Oliiver miyakkale",
+        "Target_Saho_Central": "Maryam rummah takkalem arhxii tanem Oliiver miyakkale",
+        "Target_Saho_South": "Maryam rummah takkalem ayi tanem Oliiver mayakkale"
+    },
+    {
+        "ID": "SAM-GTR-00046",
+        "Source_EN": "Please let me know about it",
+        "Target_Saho_North": "Ku beezza, amayimhi sabbatah yi iyshidhdhig",
+        "Target_Saho_Central": "Ku beezza, amayehi sabbatah yi iyshidhdhig",
+        "Target_Saho_South": "Ku beeda, amayehi sabbatah yi iyshidhdhig"
+    },
+    {
+        "ID": "SAM-GTR-00047",
+        "Source_EN": "She lied to me",
+        "Target_Saho_North": "Ishi yolle zirabbitte",
+        "Target_Saho_Central": "Ishe yol zirabbitte",
+        "Target_Saho_South": "Ishe yol dirabbitte"
+    },
+    {
+        "ID": "SAM-GTR-00048",
+        "Source_EN": "She told him everything that happened when her husband came",
+        "Target_Saho_North": "Tee bacli yemeete gedda tekkem inkoh akah warishshe",
+        "Target_Saho_Central": "Tee tiyawti yemeete ged tekkem inkoh akah warishshe",
+        "Target_Saho_South": "Tee xiyawti yemeete gedda tekkem inkoh akah warishshe"
+    },
+    {
+        "ID": "SAM-GTR-00049",
+        "Source_EN": "She was eating meat",
+        "Target_Saho_North": "Ishi xazo beetak tine",
+        "Target_Saho_Central": "Ishi xazo beetaa tine",
+        "Target_Saho_South": "Ishi xado beetaa tine"
+    },
+    {
+        "ID": "SAM-GTR-00050",
+        "Source_EN": "Someone threw a rock at her",
+        "Target_Saho_North": "Wuliti teyal dhaa alle cide",
+        "Target_Saho_Central": "Uliti teyal dhaa el cide",
+        "Target_Saho_South": "Uliti teyyal dhaa el cide"
+    },
+    {
+        "ID": "SAM-GTR-00051",
+        "Source_EN": "Tommy doesn't think Lucy really could do that, does he?",
+        "Target_Saho_North": "Toomi, Luusi amayim abto dhictam miyakkale, makini?",
+        "Target_Saho_Central": "Toomi, Luusi amaye abto dhictam miyakkale, makiho?",
+        "Target_Saho_South": "Toomi, Luusi amaye abto dhictam mayakkale, makaho?"
+    },
+    {
+        "ID": "SAM-GTR-00052",
+        "Source_EN": "What are you doing?",
+        "Target_Saho_North": "Atu ayim abak tanito?",
+        "Target_Saho_Central": "Atin aye abaa taniini?",
+        "Target_Saho_South": "Atu aa cale abaa tanito?"
+    },
+    {
+        "ID": "SAM-GTR-00053",
+        "Source_EN": "What happened?",
+        "Target_Saho_North": "Ayim tekke?",
+        "Target_Saho_Central": "Aye tekke?",
+        "Target_Saho_South": "Aa cale tekke?"
+    },
+    {
+        "ID": "SAM-GTR-00054",
+        "Source_EN": "What is her name?",
+        "Target_Saho_North": "Tee migac miyatto kinni?",
+        "Target_Saho_Central": "Tee migac miyayto kinni?",
+        "Target_Saho_South": "Tee migac iyyayto kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00055",
+        "Source_EN": "What is his name?",
+        "Target_Saho_North": "Kaa migac miyatto kinni?",
+        "Target_Saho_Central": "Kaa migac miyayto kinni?",
+        "Target_Saho_South": "Kaa migac iyyayto kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00056",
+        "Source_EN": "What is it?",
+        "Target_Saho_North": "Ayim kinni?",
+        "Target_Saho_Central": "Aye kinni?",
+        "Target_Saho_South": "aa cale kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00057",
+        "Source_EN": "What is love?",
+        "Target_Saho_North": "Kaxani aymotta kinni?",
+        "Target_Saho_Central": "Kaxani aye kinni?",
+        "Target_Saho_South": "Kaxani aa cale kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00058",
+        "Source_EN": "What is your name?",
+        "Target_Saho_North": "Miyatto ku migac?",
+        "Target_Saho_Central": "Ku migac miyaytö kinni?",
+        "Target_Saho_South": "Ku migac iyyayto kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00059",
+        "Source_EN": "When you are here, I have nothing to fear! I love you, Dad",
+        "Target_Saho_North": "Atu talle tinniyemko, anu akko mashshiitam maliyo! Anu ku kixiniyo, abba",
+        "Target_Saho_Central": "Atu tal tinniyemko, anu ak mashshiitam maliyo! Anu ku kixiniyo, abba",
+        "Target_Saho_South": "Atu tal tinniyemko, anu ak mayshiitam maliyo! Anu ku kixiniyo, abba"
+    },
+    {
+        "ID": "SAM-GTR-00060",
+        "Source_EN": "Where can I mail these letters?",
+        "Target_Saho_North": "Ta fartot awlalle dhirhiyo kiyo?",
+        "Target_Saho_Central": "Awlal kinni ta risaalal dhirhiyo liyom?",
+        "Target_Saho_South": "Ta waraqhut awlal dhirhiyo kiyo?"
+    },
+    {
+        "ID": "SAM-GTR-00061",
+        "Source_EN": "Where did you buy all these?",
+        "Target_Saho_North": "Tayim inkoh awlaako dhamte?",
+        "Target_Saho_Central": "Akkeeko dhamte taye inkoh?",
+        "Target_Saho_South": "Taye inkoh akkeeko dhamte?"
+    },
+    {
+        "ID": "SAM-GTR-00062",
+        "Source_EN": "Where have you been yesterday?",
+        "Target_Saho_North": "Kumal awla tiniini?",
+        "Target_Saho_Central": "Kumal awla tinito?",
+        "Target_Saho_South": "Kumal al tinito?"
+    },
+    {
+        "ID": "SAM-GTR-00063",
+        "Source_EN": "Where is your book?",
+        "Target_Saho_North": "Ku kitaab alle yane?",
+        "Target_Saho_Central": "Ku kitaab awla yane?",
+        "Target_Saho_South": "Ku kitaab al yane?"
+    },
+    {
+        "ID": "SAM-GTR-00064",
+        "Source_EN": "Where will you be today?",
+        "Target_Saho_North": "Atu kaafa alle asso kito?",
+        "Target_Saho_Central": "Atu kaafa awla asso kito?",
+        "Target_Saho_South": "Atu kaafa al asso kito?"
+    },
+    {
+        "ID": "SAM-GTR-00065",
+        "Source_EN": "Who are you?",
+        "Target_Saho_North": "Atu miyatto kito?",
+        "Target_Saho_Central": "Atin miya kitiini?",
+        "Target_Saho_South": "Atu  iyyaytö kito?"
+    },
+    {
+        "ID": "SAM-GTR-00066",
+        "Source_EN": "Who called you?",
+        "Target_Saho_North": "Mii koh deecime?",
+        "Target_Saho_Central": "Miyayti koh deecime?",
+        "Target_Saho_South": "Iyyi sinah deecime?"
+    },
+    {
+        "ID": "SAM-GTR-00067",
+        "Source_EN": "Who did it?",
+        "Target_Saho_North": "Miyatti abe?",
+        "Target_Saho_Central": "Miyaytö abte?",
+        "Target_Saho_South": "Iyyaytö abte?"
+    },
+    {
+        "ID": "SAM-GTR-00068",
+        "Source_EN": "Who do you like/love?",
+        "Target_Saho_North": "Atu miyatto kixinto?",
+        "Target_Saho_Central": "Atin miya kixintiini?",
+        "Target_Saho_South": "Atu iyya kixinto?"
+    },
+    {
+        "ID": "SAM-GTR-00069",
+        "Source_EN": "Who do you love the most in your family?",
+        "Target_Saho_North": "Atu ishi xawazadde ummanimko mangum miyatto kixinto?",
+        "Target_Saho_Central": "Atu ishi xawazad ummanimko mangum miyayto kixinto?",
+        "Target_Saho_South": "Atin sinni xawazad ummanimko mangum iyyayto kixiniini?"
+    },
+    {
+        "ID": "SAM-GTR-00070",
+        "Source_EN": "Who do you usually play golf with?",
+        "Target_Saho_North": "Atu mangih goluf miyattoolih digirta?",
+        "Target_Saho_Central": "Atu mangih goluf miyaalih digirta?",
+        "Target_Saho_South": "Atu mangih goluf iyyaalih digirta?"
+    },
+    {
+        "ID": "SAM-GTR-00071",
+        "Source_EN": "Who is at the door?",
+        "Target_Saho_North": "Carafalle miyatti yane?",
+        "Target_Saho_Central": "Carafal miyayti yane?",
+        "Target_Saho_South": "Carafal iyyi yane?"
+    },
+    {
+        "ID": "SAM-GTR-00072",
+        "Source_EN": "Who is coming over?",
+        "Target_Saho_North": "Miyatti amiituk yane?",
+        "Target_Saho_Central": "Mii amiitii yane?",
+        "Target_Saho_South": "Iyyaytö amiitii tane?"
+    },
+    {
+        "ID": "SAM-GTR-00073",
+        "Source_EN": "Who is he?",
+        "Target_Saho_North": "Usuk miyatto kinni?",
+        "Target_Saho_Central": "Usuk miyayto kinni?",
+        "Target_Saho_South": "Usuk iyyayto kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00074",
+        "Source_EN": "Who is she?",
+        "Target_Saho_North": "Ishi miyattö kinni?",
+        "Target_Saho_Central": "Ishi miyaytö kinni?",
+        "Target_Saho_South": "Ishi iyyaytö kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00075",
+        "Source_EN": "Who is stronger?",
+        "Target_Saho_North": "Miyattö quwwa le?",
+        "Target_Saho_Central": "Miyaytö quwwa le?",
+        "Target_Saho_South": "Iyyi quwwa le?"
+    },
+    {
+        "ID": "SAM-GTR-00076",
+        "Source_EN": "Who is the president of Sudan?",
+        "Target_Saho_North": "Soodan amotti miyatto kinni?",
+        "Target_Saho_Central": "Soodan amoyti miyayto kinni?",
+        "Target_Saho_South": "Soodan amoyti iyyayto kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00077",
+        "Source_EN": "Who is this old woman?",
+        "Target_Saho_North": "Ta naba numa miyattö?",
+        "Target_Saho_Central": "Ta naba numa miyaytö?",
+        "Target_Saho_South": "Ta naba numa iyyaytö kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00078",
+        "Source_EN": "Who is your favourite singer?",
+        "Target_Saho_North": "Atin kixintin margadisheeni miyatto kinni?",
+        "Target_Saho_Central": "Atu kixinto margadisheeni miyayto kinni?",
+        "Target_Saho_South": "Atu kixinto margadisheeni iyyayto kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00079",
+        "Source_EN": "Who knows?",
+        "Target_Saho_North": "Miyatti yaarhige?",
+        "Target_Saho_Central": "Mii yaarhige?",
+        "Target_Saho_South": "Iyyi yaarhige?"
+    },
+    {
+        "ID": "SAM-GTR-00080",
+        "Source_EN": "Who says, A mother and son can’t be the best friends?” I still don’t feel relax till I tell you everything. Your touch and words are like medicine. I love you mommy",
+        "Target_Saho_North": "Miyatto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku zirhi yottah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)",
+        "Target_Saho_Central": "Miyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona mirhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)",
+        "Target_Saho_South": "Iyyayto kinni: Ina kee barha rummaahit kaxantoolit yakkoona marhiicaana” yarhxeti? Ummanim koh warishandah ruf-maarhxe. Ku saaxor kee ku waani yoyyah diwa yoh kinni. Ku kixiniyo yi casa ina (casiina)"
+    },
+    {
+        "ID": "SAM-GTR-00081",
+        "Source_EN": "Who went with you yesterday?",
+        "Target_Saho_North": "Kumal miyyi sinlih yedee?",
+        "Target_Saho_Central": "Kumal miyayti sinlih tedee?",
+        "Target_Saho_South": "Kumal iyyi koolih yedee?"
+    },
+    {
+        "ID": "SAM-GTR-00082",
+        "Source_EN": "Who won the game?",
+        "Target_Saho_North": "Digirille mii yusluge?",
+        "Target_Saho_Central": "Digiril miyayti yusluge?",
+        "Target_Saho_South": "Digiril iyyi yusluge?"
+    },
+    {
+        "ID": "SAM-GTR-00083",
+        "Source_EN": "Who wrote this book?",
+        "Target_Saho_North": "Ta kitaab mii yuktube?",
+        "Target_Saho_Central": "Ta kitaab miyayti yuktube?",
+        "Target_Saho_South": "Ta kitaab iyyi yuktube?"
+    },
+    {
+        "ID": "SAM-GTR-00084",
+        "Source_EN": "Whose bag is this?",
+        "Target_Saho_North": "Ta shantha miyatti tiyä kinni?",
+        "Target_Saho_Central": "Ta shantha mii tiyä kinni?",
+        "Target_Saho_South": "Ta shantha iyyin tiyä kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00085",
+        "Source_EN": "Whose car is this?",
+        "Target_Saho_North": "Ta makiina mii tiyä kinni?",
+        "Target_Saho_Central": "Ta makiina miyayti tiyä kinni?",
+        "Target_Saho_South": "Ta makiina iyyin tiya kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00086",
+        "Source_EN": "Whose child that has cough?",
+        "Target_Saho_North": "Ufuca lem miyatti cindhooka kinni?",
+        "Target_Saho_Central": "Ufuca lem mii cindhooka kinni?",
+        "Target_Saho_South": "Ufuca lem iyyin cindhooka kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00087",
+        "Source_EN": "Why are you laughing?",
+        "Target_Saho_North": "Atu ayimih aasulituk tanito?",
+        "Target_Saho_Central": "Atu ayeh aasulii tanito?",
+        "Target_Saho_South": "Atin ayeh aasulii taniini?"
+    },
+    {
+        "ID": "SAM-GTR-00088",
+        "Source_EN": "Why are you so happy?",
+        "Target_Saho_North": "Atu ayimih xedentak tanito?",
+        "Target_Saho_Central": "Atu ayeh xedenaa tanito?",
+        "Target_Saho_South": "Atin ayeh xedenaa taniini?"
+    },
+    {
+        "ID": "SAM-GTR-00089",
+        "Source_EN": "Will Margaret really be doing that by herself?",
+        "Target_Saho_North": "Rummah Margaret amayim inkoh isheh abto kinni?",
+        "Target_Saho_Central": "Rummah Margaret amaye inkoh isheh abto kinni?",
+        "Target_Saho_South": "Rummah Margaret tamaye inkoh isheh abto kinni?"
+    },
+    {
+        "ID": "SAM-GTR-00090",
+        "Source_EN": "You heard a noise behind you",
+        "Target_Saho_North": "Atu ishi caazadde andhax toobbe",
+        "Target_Saho_Central": "Atu ishi caazad andhax toobbe",
+        "Target_Saho_South": "Atu ishi caadad andhax toobbe"
+    },
+    {
+        "ID": "SAM-GTR-00091",
+        "Source_EN": "You're not going in there",
+        "Target_Saho_North": "Atin amalle aduuk mitaniini",
+        "Target_Saho_Central": "Atu amal adii mitanito",
+        "Target_Saho_South": "Atu amal adii matane"
+    },
+    {
+        "ID": "SAM-GTR-00092",
+        "Source_EN": "love creates hope even in the hardest times",
+        "Target_Saho_North": "kaxani uma waqhtedde gantah cag xiyaah yakke",
+        "Target_Saho_Central": "kaxani uma uddurud gantah cag xiyaah yakke",
+        "Target_Saho_South": "kaxani uma gul gantah niya xiyaah yakke"
+    },
+    {
+        "ID": "SAM-GTR-00093",
+        "Source_EN": "mercy brings us closer to each other",
+        "Target_Saho_North": "Raxmatta sittiyalle kab ni ishsha",
+        "Target_Saho_Central": "Raxmatta sittiyal kab ni ishsha",
+        "Target_Saho_South": "Raxmatta sittiyal kab ni isissa"
+    }
+]
